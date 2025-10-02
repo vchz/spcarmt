@@ -1,0 +1,4017 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="39.259262in"
+   height="15.370399in"
+   viewBox="0 0 2826.6667 1106.6687"
+   version="1.1"
+   id="svg231"
+   sodipodi:docname="figS3.svg"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">
+  <metadata
+     id="metadata237">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs235" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="2096"
+     id="namedview233"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     units="in"
+     inkscape:zoom="0.27692308"
+     inkscape:cx="1792.6616"
+     inkscape:cy="-1070.4117"
+     inkscape:window-x="1920"
+     inkscape:window-y="27"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg231" />
+  <g
+     id="g5717"
+     transform="translate(4,-3.5)">
+    <g
+       id="g4977"
+       transform="translate(-7.5)">
+      <g
+         id="node16"
+         class="node"
+         transform="translate(4,1122.4167)">
+        <title
+           id="title225">Zheng2017__CAPTION</title>
+        <text
+           text-anchor="start"
+           x="159"
+           y="-15.3"
+           font-family="'Nimbus Sans'"
+           font-weight="bold"
+           font-size="14px"
+           fill="#000000"
+           id="text227">Zheng2017</text>
+      </g>
+      <g
+         id="node2"
+         class="node"
+         transform="translate(4,1361)">
+        <title
+           id="title25">Zheng2017__resampling</title>
+        <path
+           fill="none"
+           stroke="#000000"
+           d="m 371.5,-1184 c 0,0 -354,0 -354,0 -6,0 -12,6 -12,12 0,0 0,22 0,22 0,6 6,12 12,12 0,0 354,0 354,0 6,0 12,-6 12,-12 0,0 0,-22 0,-22 0,-6 -6,-12 -12,-12"
+           id="path27" />
+        <text
+           text-anchor="start"
+           x="155"
+           y="-1167.8"
+           font-family="'Nimbus Sans'"
+           font-weight="bold"
+           font-size="14px"
+           fill="#000000"
+           id="text29">Subsampler</text>
+        <text
+           text-anchor="start"
+           x="15.5"
+           y="-1147.8"
+           font-family="'Nimbus Sans'"
+           font-size="14px"
+           fill="#000000"
+           id="text31">{&quot;num_cells&quot;: 40000, &quot;replace&quot;: false, &quot;rng&quot;: &quot;&lt;Generator&gt;&quot;}</text>
+      </g>
+      <g
+         id="node8"
+         class="node"
+         transform="translate(4,1361)">
+        <title
+           id="title117">Zheng2017__size_factors</title>
+        <path
+           fill="none"
+           stroke="#000000"
+           d="m 377,-640 c 0,0 -365,0 -365,0 -6,0 -12,6 -12,12 0,0 0,22 0,22 0,6 6,12 12,12 0,0 365,0 365,0 6,0 12,-6 12,-12 0,0 0,-22 0,-22 0,-6 -6,-12 -12,-12"
+           id="path119" />
+        <text
+           text-anchor="start"
+           x="127"
+           y="-623.79999"
+           font-family="'Nimbus Sans'"
+           font-weight="bold"
+           font-size="14px"
+           fill="#000000"
+           id="text121">ComputeSizeFactors</text>
+        <text
+           text-anchor="start"
+           x="10.5"
+           y="-603.79999"
+           font-family="'Nimbus Sans'"
+           font-size="14px"
+           fill="#000000"
+           id="text123">{&quot;method&quot;: &quot;total&quot;, &quot;obs&quot;: &quot;size_factor&quot;, &quot;tot_counts&quot;: 10000.0}</text>
+      </g>
+      <g
+         id="g4250">
+        <g
+           id="node1"
+           class="node"
+           transform="translate(4,1361)">
+          <title
+             id="title6">Zheng2017__qc_cells</title>
+          <path
+             fill="none"
+             stroke="#000000"
+             d="m 272.5,-1357 c 0,0 -156,0 -156,0 -6,0 -12,6 -12,12 0,0 0,117 0,117 0,6 6,12 12,12 0,0 156,0 156,0 6,0 12,-6 12,-12 0,0 0,-117 0,-117 0,-6 -6,-12 -12,-12"
+             id="path8" />
+          <text
+             text-anchor="start"
+             x="138.5"
+             y="-1340.3"
+             font-family="'Nimbus Sans'"
+             font-weight="bold"
+             font-size="14px"
+             fill="#000000"
+             id="text10">CellsQualityFilter</text>
+          <text
+             text-anchor="start"
+             x="114.5"
+             y="-1320.3"
+             font-family="'Nimbus Sans'"
+             font-size="14px"
+             fill="#000000"
+             id="text12">{</text>
+          <text
+             text-anchor="start"
+             x="114.5"
+             y="-1301.3"
+             font-family="'Nimbus Sans'"
+             font-size="14px"
+             fill="#000000"
+             id="text14"> &quot;max_genes&quot;: 2000,</text>
+          <text
+             text-anchor="start"
+             x="114.5"
+             y="-1282.3"
+             font-family="'Nimbus Sans'"
+             font-size="14px"
+             fill="#000000"
+             id="text16"> &quot;max_pct_mt&quot;: 6,</text>
+          <text
+             text-anchor="start"
+             x="114.5"
+             y="-1263.3"
+             font-family="'Nimbus Sans'"
+             font-size="14px"
+             fill="#000000"
+             id="text18"> &quot;max_tot_counts&quot;: 6500,</text>
+          <text
+             text-anchor="start"
+             x="114.5"
+             y="-1244.3"
+             font-family="'Nimbus Sans'"
+             font-size="14px"
+             fill="#000000"
+             id="text20"> &quot;min_genes&quot;: 200</text>
+          <text
+             text-anchor="start"
+             x="114.5"
+             y="-1225.3"
+             font-family="'Nimbus Sans'"
+             font-size="14px"
+             fill="#000000"
+             id="text22">}</text>
+        </g>
+        <g
+           id="edge1"
+           class="edge"
+           transform="translate(4,1361)">
+          <title
+             id="title34">Zheng2017__qc_cells-&gt;Zheng2017__resampling</title>
+          <path
+             fill="none"
+             stroke="#000000"
+             d="m 194.5,-1215.681 c 0,11.3422 0,22.3269 0,31.4383"
+             id="path36" />
+        </g>
+        <g
+           id="node3"
+           class="node"
+           transform="translate(4,1361)">
+          <title
+             id="title39">Zheng2017__qc_genes</title>
+          <path
+             fill="none"
+             stroke="#000000"
+             d="m 304,-1106 c 0,0 -219,0 -219,0 -6,0 -12,6 -12,12 0,0 0,98 0,98 0,6 6,12 12,12 0,0 219,0 219,0 6,0 12,-6 12,-12 0,0 0,-98 0,-98 0,-6 -6,-12 -12,-12"
+             id="path41" />
+          <text
+             text-anchor="start"
+             x="134"
+             y="-1089.8"
+             font-family="'Nimbus Sans'"
+             font-weight="bold"
+             font-size="14px"
+             fill="#000000"
+             id="text43">GenesQualityFilter</text>
+          <text
+             text-anchor="start"
+             x="83.5"
+             y="-1069.8"
+             font-family="'Nimbus Sans'"
+             font-size="14px"
+             fill="#000000"
+             id="text45">{</text>
+          <text
+             text-anchor="start"
+             x="83.5"
+             y="-1050.8"
+             font-family="'Nimbus Sans'"
+             font-size="14px"
+             fill="#000000"
+             id="text47"> &quot;max_gene_tot_counts&quot;: 100000.0,</text>
+          <text
+             text-anchor="start"
+             x="83.5"
+             y="-1031.8"
+             font-family="'Nimbus Sans'"
+             font-size="14px"
+             fill="#000000"
+             id="text49"> &quot;min_gene_tot_counts&quot;: 0,</text>
+          <text
+             text-anchor="start"
+             x="83.5"
+             y="-1012.8"
+             font-family="'Nimbus Sans'"
+             font-size="14px"
+             fill="#000000"
+             id="text51"> &quot;min_pct_cells&quot;: 0.7</text>
+          <text
+             text-anchor="start"
+             x="83.5"
+             y="-993.79999"
+             font-family="'Nimbus Sans'"
+             font-size="14px"
+             fill="#000000"
+             id="text53">}</text>
+        </g>
+        <g
+           id="edge2"
+           class="edge"
+           transform="translate(4,1361)">
+          <title
+             id="title56">Zheng2017__resampling-&gt;Zheng2017__qc_genes</title>
+          <path
+             fill="none"
+             stroke="#000000"
+             d="m 194.5,-1137.8045 c 0,9.2564 0,20.3895 0,31.6809"
+             id="path58" />
+        </g>
+        <g
+           id="node4"
+           class="node"
+           transform="translate(4,1361)">
+          <title
+             id="title61">Zheng2017__resampling_2</title>
+          <path
+             fill="none"
+             stroke="#000000"
+             d="m 368,-952 c 0,0 -347,0 -347,0 -6,0 -12,6 -12,12 0,0 0,22 0,22 0,6 6,12 12,12 0,0 347,0 347,0 6,0 12,-6 12,-12 0,0 0,-22 0,-22 0,-6 -6,-12 -12,-12"
+             id="path63" />
+          <text
+             text-anchor="start"
+             x="155.5"
+             y="-935.79999"
+             font-family="'Nimbus Sans'"
+             font-weight="bold"
+             font-size="14px"
+             fill="#000000"
+             id="text65">Subsampler</text>
+          <text
+             text-anchor="start"
+             x="19.5"
+             y="-915.79999"
+             font-family="'Nimbus Sans'"
+             font-size="14px"
+             fill="#000000"
+             id="text67">{&quot;num_cells&quot;: 3000, &quot;replace&quot;: false, &quot;rng&quot;: &quot;&lt;Generator&gt;&quot;}</text>
+        </g>
+        <g
+           id="edge3"
+           class="edge"
+           transform="translate(4,1361)">
+          <title
+             id="title70">Zheng2017__qc_genes-&gt;Zheng2017__resampling_2</title>
+          <path
+             fill="none"
+             stroke="#000000"
+             d="m 194.5,-983.9427 c 0,11.353 0,22.5494 0,31.8427"
+             id="path72" />
+        </g>
+        <g
+           id="node5"
+           class="node"
+           transform="translate(4,1361)">
+          <title
+             id="title75">Zheng2017__to_layer</title>
+          <path
+             fill="none"
+             stroke="#000000"
+             d="m 245.5,-874 c 0,0 -102,0 -102,0 -6,0 -12,6 -12,12 0,0 0,22 0,22 0,6 6,12 12,12 0,0 102,0 102,0 6,0 12,-6 12,-12 0,0 0,-22 0,-22 0,-6 -6,-12 -12,-12"
+             id="path77" />
+          <text
+             text-anchor="start"
+             x="153.5"
+             y="-857.79999"
+             font-family="'Nimbus Sans'"
+             font-weight="bold"
+             font-size="14px"
+             fill="#000000"
+             id="text79">DataToLayer</text>
+          <text
+             text-anchor="start"
+             x="141.5"
+             y="-837.79999"
+             font-family="'Nimbus Sans'"
+             font-size="14px"
+             fill="#000000"
+             id="text81">{&quot;layer&quot;: &quot;counts&quot;}</text>
+        </g>
+        <g
+           id="edge4"
+           class="edge"
+           transform="translate(4,1361)">
+          <title
+             id="title84">Zheng2017__resampling_2-&gt;Zheng2017__to_layer</title>
+          <path
+             fill="none"
+             stroke="#000000"
+             d="m 194.5,-905.5974 c 0,9.962 0,21.5495 0,31.4801"
+             id="path86" />
+        </g>
+        <g
+           id="node6"
+           class="node"
+           transform="translate(4,1361)">
+          <title
+             id="title89">Zheng2017__qc_genes_1</title>
+          <path
+             fill="none"
+             stroke="#000000"
+             d="m 338.5,-796 c 0,0 -288,0 -288,0 -6,0 -12,6 -12,12 0,0 0,22 0,22 0,6 6,12 12,12 0,0 288,0 288,0 6,0 12,-6 12,-12 0,0 0,-22 0,-22 0,-6 -6,-12 -12,-12"
+             id="path91" />
+          <text
+             text-anchor="start"
+             x="133.5"
+             y="-779.79999"
+             font-family="'Nimbus Sans'"
+             font-weight="bold"
+             font-size="14px"
+             fill="#000000"
+             id="text93">GenesQualityFilter</text>
+          <text
+             text-anchor="start"
+             x="48.5"
+             y="-759.79999"
+             font-family="'Nimbus Sans'"
+             font-size="14px"
+             fill="#000000"
+             id="text95">{&quot;min_gene_tot_counts&quot;: 0, &quot;min_pct_cells&quot;: 0.7}</text>
+        </g>
+        <g
+           id="edge5"
+           class="edge"
+           transform="translate(4,1361)">
+          <title
+             id="title98">Zheng2017__to_layer-&gt;Zheng2017__qc_genes_1</title>
+          <path
+             fill="none"
+             stroke="#000000"
+             d="m 194.5,-827.5974 c 0,9.962 0,21.5495 0,31.4801"
+             id="path100" />
+        </g>
+        <g
+           id="node7"
+           class="node"
+           transform="translate(4,1361)">
+          <title
+             id="title103">Zheng2017__qc_cells_1</title>
+          <path
+             fill="none"
+             stroke="#000000"
+             d="m 248.5,-718 c 0,0 -108,0 -108,0 -6,0 -12,6 -12,12 0,0 0,22 0,22 0,6 6,12 12,12 0,0 108,0 108,0 6,0 12,-6 12,-12 0,0 0,-22 0,-22 0,-6 -6,-12 -12,-12"
+             id="path105" />
+          <text
+             text-anchor="start"
+             x="138.5"
+             y="-701.79999"
+             font-family="'Nimbus Sans'"
+             font-weight="bold"
+             font-size="14px"
+             fill="#000000"
+             id="text107">CellsQualityFilter</text>
+          <text
+             text-anchor="start"
+             x="138.5"
+             y="-681.79999"
+             font-family="'Nimbus Sans'"
+             font-size="14px"
+             fill="#000000"
+             id="text109">{&quot;min_genes&quot;: 20}</text>
+        </g>
+        <g
+           id="edge6"
+           class="edge"
+           transform="translate(4,1361)">
+          <title
+             id="title112">Zheng2017__qc_genes_1-&gt;Zheng2017__qc_cells_1</title>
+          <path
+             fill="none"
+             stroke="#000000"
+             d="m 194.5,-749.5974 c 0,9.962 0,21.5495 0,31.4801"
+             id="path114" />
+        </g>
+        <g
+           id="edge7"
+           class="edge"
+           transform="translate(4,1361)">
+          <title
+             id="title126">Zheng2017__qc_cells_1-&gt;Zheng2017__size_factors</title>
+          <path
+             fill="none"
+             stroke="#000000"
+             d="m 194.5,-671.5974 c 0,9.962 0,21.5495 0,31.4801"
+             id="path128" />
+        </g>
+        <g
+           id="node9"
+           class="node"
+           transform="translate(4,1361)">
+          <title
+             id="title131">Zheng2017__pr_norm</title>
+          <path
+             fill="none"
+             stroke="#000000"
+             d="m 269.5,-562 c 0,0 -150,0 -150,0 -6,0 -12,6 -12,12 0,0 0,22 0,22 0,6 6,12 12,12 0,0 150,0 150,0 6,0 12,-6 12,-12 0,0 0,-22 0,-22 0,-6 -6,-12 -12,-12"
+             id="path133" />
+          <text
+             text-anchor="start"
+             x="145.5"
+             y="-545.79999"
+             font-family="'Nimbus Sans'"
+             font-weight="bold"
+             font-size="14px"
+             fill="#000000"
+             id="text135">SizeNormalizer</text>
+          <text
+             text-anchor="start"
+             x="117.5"
+             y="-525.79999"
+             font-family="'Nimbus Sans'"
+             font-size="14px"
+             fill="#000000"
+             id="text137">{&quot;use_obs&quot;: &quot;size_factor&quot;}</text>
+        </g>
+        <g
+           id="edge8"
+           class="edge"
+           transform="translate(4,1361)">
+          <title
+             id="title140">Zheng2017__size_factors-&gt;Zheng2017__pr_norm</title>
+          <path
+             fill="none"
+             stroke="#000000"
+             d="m 194.5,-593.5974 c 0,9.962 0,21.5495 0,31.4801"
+             id="path142" />
+        </g>
+        <g
+           id="node10"
+           class="node"
+           transform="translate(4,1361)">
+          <title
+             id="title145">Zheng2017__pr_log</title>
+          <path
+             fill="none"
+             stroke="#000000"
+             d="m 240.5,-484 c 0,0 -92,0 -92,0 -6,0 -12,6 -12,12 0,0 0,12 0,12 0,6 6,12 12,12 0,0 92,0 92,0 6,0 12,-6 12,-12 0,0 0,-12 0,-12 0,-6 -6,-12 -12,-12"
+             id="path147" />
+          <text
+             text-anchor="start"
+             x="146.5"
+             y="-462.79999"
+             font-family="'Nimbus Sans'"
+             font-weight="bold"
+             font-size="14px"
+             fill="#000000"
+             id="text149">LogNormalizer</text>
+        </g>
+        <g
+           id="edge9"
+           class="edge"
+           transform="translate(4,1361)">
+          <title
+             id="title152">Zheng2017__pr_norm-&gt;Zheng2017__pr_log</title>
+          <path
+             fill="none"
+             stroke="#000000"
+             d="m 194.5,-515.9023 c 0,10.1921 0,22.0032 0,31.5755"
+             id="path154" />
+        </g>
+        <g
+           id="node11"
+           class="node"
+           transform="translate(4,1361)">
+          <title
+             id="title157">Zheng2017__highly_variable</title>
+          <path
+             fill="none"
+             stroke="#000000"
+             d="m 288,-416 c 0,0 -187,0 -187,0 -6,0 -12,6 -12,12 0,0 0,22 0,22 0,6 6,12 12,12 0,0 187,0 187,0 6,0 12,-6 12,-12 0,0 0,-22 0,-22 0,-6 -6,-12 -12,-12"
+             id="path159" />
+          <text
+             text-anchor="start"
+             x="131.5"
+             y="-399.79999"
+             font-family="'Nimbus Sans'"
+             font-weight="bold"
+             font-size="14px"
+             fill="#000000"
+             id="text161">HighlyVariableFilter</text>
+          <text
+             text-anchor="start"
+             x="99.5"
+             y="-379.79999"
+             font-family="'Nimbus Sans'"
+             font-size="14px"
+             fill="#000000"
+             id="text163">{&quot;flavor&quot;: &quot;seurat&quot;, &quot;num&quot;: 2500}</text>
+        </g>
+        <g
+           id="edge10"
+           class="edge"
+           transform="translate(4,1361)">
+          <title
+             id="title166">Zheng2017__pr_log-&gt;Zheng2017__highly_variable</title>
+          <path
+             fill="none"
+             stroke="#000000"
+             d="m 194.5,-447.9551 c 0,9.6265 0,21.5772 0,31.8731"
+             id="path168" />
+        </g>
+        <g
+           id="node12"
+           class="node"
+           transform="translate(4,1361)">
+          <title
+             id="title171">Zheng2017__to_data</title>
+          <path
+             fill="none"
+             stroke="#000000"
+             d="m 245.5,-338 c 0,0 -102,0 -102,0 -6,0 -12,6 -12,12 0,0 0,22 0,22 0,6 6,12 12,12 0,0 102,0 102,0 6,0 12,-6 12,-12 0,0 0,-22 0,-22 0,-6 -6,-12 -12,-12"
+             id="path173" />
+          <text
+             text-anchor="start"
+             x="153.5"
+             y="-321.79999"
+             font-family="'Nimbus Sans'"
+             font-weight="bold"
+             font-size="14px"
+             fill="#000000"
+             id="text175">LayerToData</text>
+          <text
+             text-anchor="start"
+             x="141.5"
+             y="-301.79999"
+             font-family="'Nimbus Sans'"
+             font-size="14px"
+             fill="#000000"
+             id="text177">{&quot;layer&quot;: &quot;counts&quot;}</text>
+        </g>
+        <g
+           id="edge11"
+           class="edge"
+           transform="translate(4,1361)">
+          <title
+             id="title180">Zheng2017__highly_variable-&gt;Zheng2017__to_data</title>
+          <path
+             fill="none"
+             stroke="#000000"
+             d="m 194.5,-369.5974 c 0,9.962 0,21.5495 0,31.4801"
+             id="path182" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g4561"
+       transform="translate(-15,1.3542)">
+      <g
+         id="g4157">
+        <g
+           id="node1-6"
+           class="node"
+           transform="translate(419.64585,1359.6458)">
+          <title
+             id="title243">Luecken2021__qc_cells</title>
+          <path
+             fill="none"
+             stroke="#000000"
+             d="m 276,-1357 c 0,0 -163,0 -163,0 -6,0 -12,6 -12,12 0,0 0,117 0,117 0,6 6,12 12,12 0,0 163,0 163,0 6,0 12,-6 12,-12 0,0 0,-117 0,-117 0,-6 -6,-12 -12,-12"
+             id="path245" />
+          <text
+             text-anchor="start"
+             x="139"
+             y="-1340.3"
+             font-family="'Nimbus Sans'"
+             font-weight="bold"
+             font-size="14px"
+             fill="#000000"
+             id="text247">CellsQualityFilter</text>
+          <text
+             text-anchor="start"
+             x="111.5"
+             y="-1320.3"
+             font-family="'Nimbus Sans'"
+             font-size="14px"
+             fill="#000000"
+             id="text249">{</text>
+          <text
+             text-anchor="start"
+             x="111.5"
+             y="-1301.3"
+             font-family="'Nimbus Sans'"
+             font-size="14px"
+             fill="#000000"
+             id="text251"> &quot;max_genes&quot;: 4500,</text>
+          <text
+             text-anchor="start"
+             x="111.5"
+             y="-1282.3"
+             font-family="'Nimbus Sans'"
+             font-size="14px"
+             fill="#000000"
+             id="text253"> &quot;max_pct_mt&quot;: 10,</text>
+          <text
+             text-anchor="start"
+             x="111.5"
+             y="-1263.3"
+             font-family="'Nimbus Sans'"
+             font-size="14px"
+             fill="#000000"
+             id="text255"> &quot;max_tot_counts&quot;: 12000,</text>
+          <text
+             text-anchor="start"
+             x="111.5"
+             y="-1244.3"
+             font-family="'Nimbus Sans'"
+             font-size="14px"
+             fill="#000000"
+             id="text257"> &quot;min_genes&quot;: 300</text>
+          <text
+             text-anchor="start"
+             x="111.5"
+             y="-1225.3"
+             font-family="'Nimbus Sans'"
+             font-size="14px"
+             fill="#000000"
+             id="text259">}</text>
+        </g>
+        <g
+           id="node2-7"
+           class="node"
+           transform="translate(419.64585,1359.6458)">
+          <title
+             id="title262">Luecken2021__resampling</title>
+          <path
+             fill="none"
+             stroke="#000000"
+             d="m 371.5,-1184 c 0,0 -354,0 -354,0 -6,0 -12,6 -12,12 0,0 0,22 0,22 0,6 6,12 12,12 0,0 354,0 354,0 6,0 12,-6 12,-12 0,0 0,-22 0,-22 0,-6 -6,-12 -12,-12"
+             id="path264" />
+          <text
+             text-anchor="start"
+             x="155"
+             y="-1167.8"
+             font-family="'Nimbus Sans'"
+             font-weight="bold"
+             font-size="14px"
+             fill="#000000"
+             id="text266">Subsampler</text>
+          <text
+             text-anchor="start"
+             x="15.5"
+             y="-1147.8"
+             font-family="'Nimbus Sans'"
+             font-size="14px"
+             fill="#000000"
+             id="text268">{&quot;num_cells&quot;: 40000, &quot;replace&quot;: false, &quot;rng&quot;: &quot;&lt;Generator&gt;&quot;}</text>
+        </g>
+        <g
+           id="edge1-5"
+           class="edge"
+           transform="translate(419.64585,1359.6458)">
+          <title
+             id="title271">Luecken2021__qc_cells-&gt;Luecken2021__resampling</title>
+          <path
+             fill="none"
+             stroke="#000000"
+             d="m 194.5,-1215.681 c 0,11.3422 0,22.3269 0,31.4383"
+             id="path273" />
+        </g>
+        <g
+           id="node3-3"
+           class="node"
+           transform="translate(419.64585,1359.6458)">
+          <title
+             id="title276">Luecken2021__qc_genes</title>
+          <path
+             fill="none"
+             stroke="#000000"
+             d="m 304,-1106 c 0,0 -219,0 -219,0 -6,0 -12,6 -12,12 0,0 0,98 0,98 0,6 6,12 12,12 0,0 219,0 219,0 6,0 12,-6 12,-12 0,0 0,-98 0,-98 0,-6 -6,-12 -12,-12"
+             id="path278" />
+          <text
+             text-anchor="start"
+             x="134"
+             y="-1089.8"
+             font-family="'Nimbus Sans'"
+             font-weight="bold"
+             font-size="14px"
+             fill="#000000"
+             id="text280">GenesQualityFilter</text>
+          <text
+             text-anchor="start"
+             x="83.5"
+             y="-1069.8"
+             font-family="'Nimbus Sans'"
+             font-size="14px"
+             fill="#000000"
+             id="text282">{</text>
+          <text
+             text-anchor="start"
+             x="83.5"
+             y="-1050.8"
+             font-family="'Nimbus Sans'"
+             font-size="14px"
+             fill="#000000"
+             id="text284"> &quot;max_gene_tot_counts&quot;: 100000.0,</text>
+          <text
+             text-anchor="start"
+             x="83.5"
+             y="-1031.8"
+             font-family="'Nimbus Sans'"
+             font-size="14px"
+             fill="#000000"
+             id="text286"> &quot;min_gene_tot_counts&quot;: 0,</text>
+          <text
+             text-anchor="start"
+             x="83.5"
+             y="-1012.8"
+             font-family="'Nimbus Sans'"
+             font-size="14px"
+             fill="#000000"
+             id="text288"> &quot;min_pct_cells&quot;: 0.7</text>
+          <text
+             text-anchor="start"
+             x="83.5"
+             y="-993.79999"
+             font-family="'Nimbus Sans'"
+             font-size="14px"
+             fill="#000000"
+             id="text290">}</text>
+        </g>
+        <g
+           id="edge2-5"
+           class="edge"
+           transform="translate(419.64585,1359.6458)">
+          <title
+             id="title293">Luecken2021__resampling-&gt;Luecken2021__qc_genes</title>
+          <path
+             fill="none"
+             stroke="#000000"
+             d="m 194.5,-1137.8045 c 0,9.2564 0,20.3895 0,31.6809"
+             id="path295" />
+        </g>
+        <g
+           id="node4-6"
+           class="node"
+           transform="translate(419.64585,1359.6458)">
+          <title
+             id="title298">Luecken2021__resampling_2</title>
+          <path
+             fill="none"
+             stroke="#000000"
+             d="m 368,-952 c 0,0 -347,0 -347,0 -6,0 -12,6 -12,12 0,0 0,22 0,22 0,6 6,12 12,12 0,0 347,0 347,0 6,0 12,-6 12,-12 0,0 0,-22 0,-22 0,-6 -6,-12 -12,-12"
+             id="path300" />
+          <text
+             text-anchor="start"
+             x="155.5"
+             y="-935.79999"
+             font-family="'Nimbus Sans'"
+             font-weight="bold"
+             font-size="14px"
+             fill="#000000"
+             id="text302">Subsampler</text>
+          <text
+             text-anchor="start"
+             x="19.5"
+             y="-915.79999"
+             font-family="'Nimbus Sans'"
+             font-size="14px"
+             fill="#000000"
+             id="text304">{&quot;num_cells&quot;: 3000, &quot;replace&quot;: false, &quot;rng&quot;: &quot;&lt;Generator&gt;&quot;}</text>
+        </g>
+        <g
+           id="edge3-2"
+           class="edge"
+           transform="translate(419.64585,1359.6458)">
+          <title
+             id="title307">Luecken2021__qc_genes-&gt;Luecken2021__resampling_2</title>
+          <path
+             fill="none"
+             stroke="#000000"
+             d="m 194.5,-983.9427 c 0,11.353 0,22.5494 0,31.8427"
+             id="path309" />
+        </g>
+        <g
+           id="node5-9"
+           class="node"
+           transform="translate(419.64585,1359.6458)">
+          <title
+             id="title312">Luecken2021__to_layer</title>
+          <path
+             fill="none"
+             stroke="#000000"
+             d="m 245.5,-874 c 0,0 -102,0 -102,0 -6,0 -12,6 -12,12 0,0 0,22 0,22 0,6 6,12 12,12 0,0 102,0 102,0 6,0 12,-6 12,-12 0,0 0,-22 0,-22 0,-6 -6,-12 -12,-12"
+             id="path314" />
+          <text
+             text-anchor="start"
+             x="153.5"
+             y="-857.79999"
+             font-family="'Nimbus Sans'"
+             font-weight="bold"
+             font-size="14px"
+             fill="#000000"
+             id="text316">DataToLayer</text>
+          <text
+             text-anchor="start"
+             x="141.5"
+             y="-837.79999"
+             font-family="'Nimbus Sans'"
+             font-size="14px"
+             fill="#000000"
+             id="text318">{&quot;layer&quot;: &quot;counts&quot;}</text>
+        </g>
+        <g
+           id="edge4-1"
+           class="edge"
+           transform="translate(419.64585,1359.6458)">
+          <title
+             id="title321">Luecken2021__resampling_2-&gt;Luecken2021__to_layer</title>
+          <path
+             fill="none"
+             stroke="#000000"
+             d="m 194.5,-905.5974 c 0,9.962 0,21.5495 0,31.4801"
+             id="path323" />
+        </g>
+        <g
+           id="node6-2"
+           class="node"
+           transform="translate(419.64585,1359.6458)">
+          <title
+             id="title326">Luecken2021__qc_genes_1</title>
+          <path
+             fill="none"
+             stroke="#000000"
+             d="m 338.5,-796 c 0,0 -288,0 -288,0 -6,0 -12,6 -12,12 0,0 0,22 0,22 0,6 6,12 12,12 0,0 288,0 288,0 6,0 12,-6 12,-12 0,0 0,-22 0,-22 0,-6 -6,-12 -12,-12"
+             id="path328" />
+          <text
+             text-anchor="start"
+             x="133.5"
+             y="-779.79999"
+             font-family="'Nimbus Sans'"
+             font-weight="bold"
+             font-size="14px"
+             fill="#000000"
+             id="text330">GenesQualityFilter</text>
+          <text
+             text-anchor="start"
+             x="48.5"
+             y="-759.79999"
+             font-family="'Nimbus Sans'"
+             font-size="14px"
+             fill="#000000"
+             id="text332">{&quot;min_gene_tot_counts&quot;: 0, &quot;min_pct_cells&quot;: 0.7}</text>
+        </g>
+        <g
+           id="edge5-7"
+           class="edge"
+           transform="translate(419.64585,1359.6458)">
+          <title
+             id="title335">Luecken2021__to_layer-&gt;Luecken2021__qc_genes_1</title>
+          <path
+             fill="none"
+             stroke="#000000"
+             d="m 194.5,-827.5974 c 0,9.962 0,21.5495 0,31.4801"
+             id="path337" />
+        </g>
+        <g
+           id="node7-0"
+           class="node"
+           transform="translate(419.64585,1359.6458)">
+          <title
+             id="title340">Luecken2021__qc_cells_1</title>
+          <path
+             fill="none"
+             stroke="#000000"
+             d="m 248.5,-718 c 0,0 -108,0 -108,0 -6,0 -12,6 -12,12 0,0 0,22 0,22 0,6 6,12 12,12 0,0 108,0 108,0 6,0 12,-6 12,-12 0,0 0,-22 0,-22 0,-6 -6,-12 -12,-12"
+             id="path342" />
+          <text
+             text-anchor="start"
+             x="138.5"
+             y="-701.79999"
+             font-family="'Nimbus Sans'"
+             font-weight="bold"
+             font-size="14px"
+             fill="#000000"
+             id="text344">CellsQualityFilter</text>
+          <text
+             text-anchor="start"
+             x="138.5"
+             y="-681.79999"
+             font-family="'Nimbus Sans'"
+             font-size="14px"
+             fill="#000000"
+             id="text346">{&quot;min_genes&quot;: 20}</text>
+        </g>
+        <g
+           id="edge6-9"
+           class="edge"
+           transform="translate(419.64585,1359.6458)">
+          <title
+             id="title349">Luecken2021__qc_genes_1-&gt;Luecken2021__qc_cells_1</title>
+          <path
+             fill="none"
+             stroke="#000000"
+             d="m 194.5,-749.5974 c 0,9.962 0,21.5495 0,31.4801"
+             id="path351" />
+        </g>
+        <g
+           id="node8-3"
+           class="node"
+           transform="translate(419.64585,1359.6458)">
+          <title
+             id="title354">Luecken2021__size_factors</title>
+          <path
+             fill="none"
+             stroke="#000000"
+             d="m 377,-640 c 0,0 -365,0 -365,0 -6,0 -12,6 -12,12 0,0 0,22 0,22 0,6 6,12 12,12 0,0 365,0 365,0 6,0 12,-6 12,-12 0,0 0,-22 0,-22 0,-6 -6,-12 -12,-12"
+             id="path356" />
+          <text
+             text-anchor="start"
+             x="127"
+             y="-623.79999"
+             font-family="'Nimbus Sans'"
+             font-weight="bold"
+             font-size="14px"
+             fill="#000000"
+             id="text358">ComputeSizeFactors</text>
+          <text
+             text-anchor="start"
+             x="10.5"
+             y="-603.79999"
+             font-family="'Nimbus Sans'"
+             font-size="14px"
+             fill="#000000"
+             id="text360">{&quot;method&quot;: &quot;total&quot;, &quot;obs&quot;: &quot;size_factor&quot;, &quot;tot_counts&quot;: 10000.0}</text>
+        </g>
+        <g
+           id="edge7-6"
+           class="edge"
+           transform="translate(419.64585,1359.6458)">
+          <title
+             id="title363">Luecken2021__qc_cells_1-&gt;Luecken2021__size_factors</title>
+          <path
+             fill="none"
+             stroke="#000000"
+             d="m 194.5,-671.5974 c 0,9.962 0,21.5495 0,31.4801"
+             id="path365" />
+        </g>
+        <g
+           id="node9-0"
+           class="node"
+           transform="translate(419.64585,1359.6458)">
+          <title
+             id="title368">Luecken2021__pr_norm</title>
+          <path
+             fill="none"
+             stroke="#000000"
+             d="m 269.5,-562 c 0,0 -150,0 -150,0 -6,0 -12,6 -12,12 0,0 0,22 0,22 0,6 6,12 12,12 0,0 150,0 150,0 6,0 12,-6 12,-12 0,0 0,-22 0,-22 0,-6 -6,-12 -12,-12"
+             id="path370" />
+          <text
+             text-anchor="start"
+             x="145.5"
+             y="-545.79999"
+             font-family="'Nimbus Sans'"
+             font-weight="bold"
+             font-size="14px"
+             fill="#000000"
+             id="text372">SizeNormalizer</text>
+          <text
+             text-anchor="start"
+             x="117.5"
+             y="-525.79999"
+             font-family="'Nimbus Sans'"
+             font-size="14px"
+             fill="#000000"
+             id="text374">{&quot;use_obs&quot;: &quot;size_factor&quot;}</text>
+        </g>
+        <g
+           id="edge8-6"
+           class="edge"
+           transform="translate(419.64585,1359.6458)">
+          <title
+             id="title377">Luecken2021__size_factors-&gt;Luecken2021__pr_norm</title>
+          <path
+             fill="none"
+             stroke="#000000"
+             d="m 194.5,-593.5974 c 0,9.962 0,21.5495 0,31.4801"
+             id="path379" />
+        </g>
+        <g
+           id="node10-2"
+           class="node"
+           transform="translate(419.64585,1359.6458)">
+          <title
+             id="title382">Luecken2021__pr_log</title>
+          <path
+             fill="none"
+             stroke="#000000"
+             d="m 240.5,-484 c 0,0 -92,0 -92,0 -6,0 -12,6 -12,12 0,0 0,12 0,12 0,6 6,12 12,12 0,0 92,0 92,0 6,0 12,-6 12,-12 0,0 0,-12 0,-12 0,-6 -6,-12 -12,-12"
+             id="path384" />
+          <text
+             text-anchor="start"
+             x="146.5"
+             y="-462.79999"
+             font-family="'Nimbus Sans'"
+             font-weight="bold"
+             font-size="14px"
+             fill="#000000"
+             id="text386">LogNormalizer</text>
+        </g>
+        <g
+           id="edge9-6"
+           class="edge"
+           transform="translate(419.64585,1359.6458)">
+          <title
+             id="title389">Luecken2021__pr_norm-&gt;Luecken2021__pr_log</title>
+          <path
+             fill="none"
+             stroke="#000000"
+             d="m 194.5,-515.9023 c 0,10.1921 0,22.0032 0,31.5755"
+             id="path391" />
+        </g>
+        <g
+           id="node11-1"
+           class="node"
+           transform="translate(419.64585,1359.6458)">
+          <title
+             id="title394">Luecken2021__highly_variable</title>
+          <path
+             fill="none"
+             stroke="#000000"
+             d="m 288,-416 c 0,0 -187,0 -187,0 -6,0 -12,6 -12,12 0,0 0,22 0,22 0,6 6,12 12,12 0,0 187,0 187,0 6,0 12,-6 12,-12 0,0 0,-22 0,-22 0,-6 -6,-12 -12,-12"
+             id="path396" />
+          <text
+             text-anchor="start"
+             x="131.5"
+             y="-399.79999"
+             font-family="'Nimbus Sans'"
+             font-weight="bold"
+             font-size="14px"
+             fill="#000000"
+             id="text398">HighlyVariableFilter</text>
+          <text
+             text-anchor="start"
+             x="99.5"
+             y="-379.79999"
+             font-family="'Nimbus Sans'"
+             font-size="14px"
+             fill="#000000"
+             id="text400">{&quot;flavor&quot;: &quot;seurat&quot;, &quot;num&quot;: 2500}</text>
+        </g>
+        <g
+           id="edge10-8"
+           class="edge"
+           transform="translate(419.64585,1359.6458)">
+          <title
+             id="title403">Luecken2021__pr_log-&gt;Luecken2021__highly_variable</title>
+          <path
+             fill="none"
+             stroke="#000000"
+             d="m 194.5,-447.9551 c 0,9.6265 0,21.5772 0,31.8731"
+             id="path405" />
+        </g>
+        <g
+           id="node12-7"
+           class="node"
+           transform="translate(419.64585,1359.6458)">
+          <title
+             id="title408">Luecken2021__to_data</title>
+          <path
+             fill="none"
+             stroke="#000000"
+             d="m 245.5,-338 c 0,0 -102,0 -102,0 -6,0 -12,6 -12,12 0,0 0,22 0,22 0,6 6,12 12,12 0,0 102,0 102,0 6,0 12,-6 12,-12 0,0 0,-22 0,-22 0,-6 -6,-12 -12,-12"
+             id="path410" />
+          <text
+             text-anchor="start"
+             x="153.5"
+             y="-321.79999"
+             font-family="'Nimbus Sans'"
+             font-weight="bold"
+             font-size="14px"
+             fill="#000000"
+             id="text412">LayerToData</text>
+          <text
+             text-anchor="start"
+             x="141.5"
+             y="-301.79999"
+             font-family="'Nimbus Sans'"
+             font-size="14px"
+             fill="#000000"
+             id="text414">{&quot;layer&quot;: &quot;counts&quot;}</text>
+        </g>
+        <g
+           id="edge11-9"
+           class="edge"
+           transform="translate(419.64585,1359.6458)">
+          <title
+             id="title417">Luecken2021__highly_variable-&gt;Luecken2021__to_data</title>
+          <path
+             fill="none"
+             stroke="#000000"
+             d="m 194.5,-369.5974 c 0,9.962 0,21.5495 0,31.4801"
+             id="path419" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="node16-9"
+       class="node"
+       transform="translate(403.99063,1123.7817)">
+      <title
+         id="title462">Luecken2021__CAPTION</title>
+      <text
+         text-anchor="start"
+         x="152"
+         y="-15.3"
+         font-family="'Nimbus Sans'"
+         font-weight="bold"
+         font-size="14px"
+         fill="#000000"
+         id="text464">Luecken2021</text>
+    </g>
+    <g
+       id="g4457"
+       transform="translate(-7.5,1.9797)">
+      <g
+         id="node1-2"
+         class="node"
+         transform="translate(819.47199,1359.0203)">
+        <title
+           id="title610">Hrvatin2016__qc_cells</title>
+        <path
+           fill="none"
+           stroke="#000000"
+           d="m 276,-1357 c 0,0 -163,0 -163,0 -6,0 -12,6 -12,12 0,0 0,117 0,117 0,6 6,12 12,12 0,0 163,0 163,0 6,0 12,-6 12,-12 0,0 0,-117 0,-117 0,-6 -6,-12 -12,-12"
+           id="path612" />
+        <text
+           text-anchor="start"
+           x="139"
+           y="-1340.3"
+           font-family="'Nimbus Sans'"
+           font-weight="bold"
+           font-size="14px"
+           fill="#000000"
+           id="text614">CellsQualityFilter</text>
+        <text
+           text-anchor="start"
+           x="111.5"
+           y="-1320.3"
+           font-family="'Nimbus Sans'"
+           font-size="14px"
+           fill="#000000"
+           id="text616">{</text>
+        <text
+           text-anchor="start"
+           x="111.5"
+           y="-1301.3"
+           font-family="'Nimbus Sans'"
+           font-size="14px"
+           fill="#000000"
+           id="text618"> &quot;max_genes&quot;: 4500,</text>
+        <text
+           text-anchor="start"
+           x="111.5"
+           y="-1282.3"
+           font-family="'Nimbus Sans'"
+           font-size="14px"
+           fill="#000000"
+           id="text620"> &quot;max_pct_mt&quot;: 6,</text>
+        <text
+           text-anchor="start"
+           x="111.5"
+           y="-1263.3"
+           font-family="'Nimbus Sans'"
+           font-size="14px"
+           fill="#000000"
+           id="text622"> &quot;max_tot_counts&quot;: 12000,</text>
+        <text
+           text-anchor="start"
+           x="111.5"
+           y="-1244.3"
+           font-family="'Nimbus Sans'"
+           font-size="14px"
+           fill="#000000"
+           id="text624"> &quot;min_genes&quot;: 500</text>
+        <text
+           text-anchor="start"
+           x="111.5"
+           y="-1225.3"
+           font-family="'Nimbus Sans'"
+           font-size="14px"
+           fill="#000000"
+           id="text626">}</text>
+      </g>
+      <g
+         id="node2-8"
+         class="node"
+         transform="translate(819.47199,1359.0203)">
+        <title
+           id="title629">Hrvatin2016__resampling</title>
+        <path
+           fill="none"
+           stroke="#000000"
+           d="m 371.5,-1184 c 0,0 -354,0 -354,0 -6,0 -12,6 -12,12 0,0 0,22 0,22 0,6 6,12 12,12 0,0 354,0 354,0 6,0 12,-6 12,-12 0,0 0,-22 0,-22 0,-6 -6,-12 -12,-12"
+           id="path631" />
+        <text
+           text-anchor="start"
+           x="155"
+           y="-1167.8"
+           font-family="'Nimbus Sans'"
+           font-weight="bold"
+           font-size="14px"
+           fill="#000000"
+           id="text633">Subsampler</text>
+        <text
+           text-anchor="start"
+           x="15.5"
+           y="-1147.8"
+           font-family="'Nimbus Sans'"
+           font-size="14px"
+           fill="#000000"
+           id="text635">{&quot;num_cells&quot;: 40000, &quot;replace&quot;: false, &quot;rng&quot;: &quot;&lt;Generator&gt;&quot;}</text>
+      </g>
+      <g
+         id="edge1-9"
+         class="edge"
+         transform="translate(819.47199,1359.0203)">
+        <title
+           id="title638">Hrvatin2016__qc_cells-&gt;Hrvatin2016__resampling</title>
+        <path
+           fill="none"
+           stroke="#000000"
+           d="m 194.5,-1215.681 c 0,11.3422 0,22.3269 0,31.4383"
+           id="path640" />
+      </g>
+      <g
+         id="node3-7"
+         class="node"
+         transform="translate(819.47199,1359.0203)">
+        <title
+           id="title643">Hrvatin2016__qc_genes</title>
+        <path
+           fill="none"
+           stroke="#000000"
+           d="m 304,-1106 c 0,0 -219,0 -219,0 -6,0 -12,6 -12,12 0,0 0,98 0,98 0,6 6,12 12,12 0,0 219,0 219,0 6,0 12,-6 12,-12 0,0 0,-98 0,-98 0,-6 -6,-12 -12,-12"
+           id="path645" />
+        <text
+           text-anchor="start"
+           x="134"
+           y="-1089.8"
+           font-family="'Nimbus Sans'"
+           font-weight="bold"
+           font-size="14px"
+           fill="#000000"
+           id="text647">GenesQualityFilter</text>
+        <text
+           text-anchor="start"
+           x="83.5"
+           y="-1069.8"
+           font-family="'Nimbus Sans'"
+           font-size="14px"
+           fill="#000000"
+           id="text649">{</text>
+        <text
+           text-anchor="start"
+           x="83.5"
+           y="-1050.8"
+           font-family="'Nimbus Sans'"
+           font-size="14px"
+           fill="#000000"
+           id="text651"> &quot;max_gene_tot_counts&quot;: 100000.0,</text>
+        <text
+           text-anchor="start"
+           x="83.5"
+           y="-1031.8"
+           font-family="'Nimbus Sans'"
+           font-size="14px"
+           fill="#000000"
+           id="text653"> &quot;min_gene_tot_counts&quot;: 0,</text>
+        <text
+           text-anchor="start"
+           x="83.5"
+           y="-1012.8"
+           font-family="'Nimbus Sans'"
+           font-size="14px"
+           fill="#000000"
+           id="text655"> &quot;min_pct_cells&quot;: 0.7</text>
+        <text
+           text-anchor="start"
+           x="83.5"
+           y="-993.79999"
+           font-family="'Nimbus Sans'"
+           font-size="14px"
+           fill="#000000"
+           id="text657">}</text>
+      </g>
+      <g
+         id="edge2-3"
+         class="edge"
+         transform="translate(819.47199,1359.0203)">
+        <title
+           id="title660">Hrvatin2016__resampling-&gt;Hrvatin2016__qc_genes</title>
+        <path
+           fill="none"
+           stroke="#000000"
+           d="m 194.5,-1137.8045 c 0,9.2564 0,20.3895 0,31.6809"
+           id="path662" />
+      </g>
+      <g
+         id="node4-61"
+         class="node"
+         transform="translate(819.47199,1359.0203)">
+        <title
+           id="title665">Hrvatin2016__resampling_2</title>
+        <path
+           fill="none"
+           stroke="#000000"
+           d="m 368,-952 c 0,0 -347,0 -347,0 -6,0 -12,6 -12,12 0,0 0,22 0,22 0,6 6,12 12,12 0,0 347,0 347,0 6,0 12,-6 12,-12 0,0 0,-22 0,-22 0,-6 -6,-12 -12,-12"
+           id="path667" />
+        <text
+           text-anchor="start"
+           x="155.5"
+           y="-935.79999"
+           font-family="'Nimbus Sans'"
+           font-weight="bold"
+           font-size="14px"
+           fill="#000000"
+           id="text669">Subsampler</text>
+        <text
+           text-anchor="start"
+           x="19.5"
+           y="-915.79999"
+           font-family="'Nimbus Sans'"
+           font-size="14px"
+           fill="#000000"
+           id="text671">{&quot;num_cells&quot;: 3000, &quot;replace&quot;: false, &quot;rng&quot;: &quot;&lt;Generator&gt;&quot;}</text>
+      </g>
+      <g
+         id="edge3-29"
+         class="edge"
+         transform="translate(819.47199,1359.0203)">
+        <title
+           id="title674">Hrvatin2016__qc_genes-&gt;Hrvatin2016__resampling_2</title>
+        <path
+           fill="none"
+           stroke="#000000"
+           d="m 194.5,-983.9427 c 0,11.353 0,22.5494 0,31.8427"
+           id="path676" />
+      </g>
+      <g
+         id="node5-3"
+         class="node"
+         transform="translate(819.47199,1359.0203)">
+        <title
+           id="title679">Hrvatin2016__to_layer</title>
+        <path
+           fill="none"
+           stroke="#000000"
+           d="m 245.5,-874 c 0,0 -102,0 -102,0 -6,0 -12,6 -12,12 0,0 0,22 0,22 0,6 6,12 12,12 0,0 102,0 102,0 6,0 12,-6 12,-12 0,0 0,-22 0,-22 0,-6 -6,-12 -12,-12"
+           id="path681" />
+        <text
+           text-anchor="start"
+           x="153.5"
+           y="-857.79999"
+           font-family="'Nimbus Sans'"
+           font-weight="bold"
+           font-size="14px"
+           fill="#000000"
+           id="text683">DataToLayer</text>
+        <text
+           text-anchor="start"
+           x="141.5"
+           y="-837.79999"
+           font-family="'Nimbus Sans'"
+           font-size="14px"
+           fill="#000000"
+           id="text685">{&quot;layer&quot;: &quot;counts&quot;}</text>
+      </g>
+      <g
+         id="edge4-19"
+         class="edge"
+         transform="translate(819.47199,1359.0203)">
+        <title
+           id="title688">Hrvatin2016__resampling_2-&gt;Hrvatin2016__to_layer</title>
+        <path
+           fill="none"
+           stroke="#000000"
+           d="m 194.5,-905.5974 c 0,9.962 0,21.5495 0,31.4801"
+           id="path690" />
+      </g>
+      <g
+         id="node6-4"
+         class="node"
+         transform="translate(819.47199,1359.0203)">
+        <title
+           id="title693">Hrvatin2016__qc_genes_1</title>
+        <path
+           fill="none"
+           stroke="#000000"
+           d="m 338.5,-796 c 0,0 -288,0 -288,0 -6,0 -12,6 -12,12 0,0 0,22 0,22 0,6 6,12 12,12 0,0 288,0 288,0 6,0 12,-6 12,-12 0,0 0,-22 0,-22 0,-6 -6,-12 -12,-12"
+           id="path695" />
+        <text
+           text-anchor="start"
+           x="133.5"
+           y="-779.79999"
+           font-family="'Nimbus Sans'"
+           font-weight="bold"
+           font-size="14px"
+           fill="#000000"
+           id="text697">GenesQualityFilter</text>
+        <text
+           text-anchor="start"
+           x="48.5"
+           y="-759.79999"
+           font-family="'Nimbus Sans'"
+           font-size="14px"
+           fill="#000000"
+           id="text699">{&quot;min_gene_tot_counts&quot;: 0, &quot;min_pct_cells&quot;: 0.7}</text>
+      </g>
+      <g
+         id="edge5-78"
+         class="edge"
+         transform="translate(819.47199,1359.0203)">
+        <title
+           id="title702">Hrvatin2016__to_layer-&gt;Hrvatin2016__qc_genes_1</title>
+        <path
+           fill="none"
+           stroke="#000000"
+           d="m 194.5,-827.5974 c 0,9.962 0,21.5495 0,31.4801"
+           id="path704" />
+      </g>
+      <g
+         id="node7-4"
+         class="node"
+         transform="translate(819.47199,1359.0203)">
+        <title
+           id="title707">Hrvatin2016__qc_cells_1</title>
+        <path
+           fill="none"
+           stroke="#000000"
+           d="m 248.5,-718 c 0,0 -108,0 -108,0 -6,0 -12,6 -12,12 0,0 0,22 0,22 0,6 6,12 12,12 0,0 108,0 108,0 6,0 12,-6 12,-12 0,0 0,-22 0,-22 0,-6 -6,-12 -12,-12"
+           id="path709" />
+        <text
+           text-anchor="start"
+           x="138.5"
+           y="-701.79999"
+           font-family="'Nimbus Sans'"
+           font-weight="bold"
+           font-size="14px"
+           fill="#000000"
+           id="text711">CellsQualityFilter</text>
+        <text
+           text-anchor="start"
+           x="138.5"
+           y="-681.79999"
+           font-family="'Nimbus Sans'"
+           font-size="14px"
+           fill="#000000"
+           id="text713">{&quot;min_genes&quot;: 20}</text>
+      </g>
+      <g
+         id="edge6-5"
+         class="edge"
+         transform="translate(819.47199,1359.0203)">
+        <title
+           id="title716">Hrvatin2016__qc_genes_1-&gt;Hrvatin2016__qc_cells_1</title>
+        <path
+           fill="none"
+           stroke="#000000"
+           d="m 194.5,-749.5974 c 0,9.962 0,21.5495 0,31.4801"
+           id="path718" />
+      </g>
+      <g
+         id="node8-0"
+         class="node"
+         transform="translate(819.47199,1359.0203)">
+        <title
+           id="title721">Hrvatin2016__size_factors</title>
+        <path
+           fill="none"
+           stroke="#000000"
+           d="m 377,-640 c 0,0 -365,0 -365,0 -6,0 -12,6 -12,12 0,0 0,22 0,22 0,6 6,12 12,12 0,0 365,0 365,0 6,0 12,-6 12,-12 0,0 0,-22 0,-22 0,-6 -6,-12 -12,-12"
+           id="path723" />
+        <text
+           text-anchor="start"
+           x="127"
+           y="-623.79999"
+           font-family="'Nimbus Sans'"
+           font-weight="bold"
+           font-size="14px"
+           fill="#000000"
+           id="text725">ComputeSizeFactors</text>
+        <text
+           text-anchor="start"
+           x="10.5"
+           y="-603.79999"
+           font-family="'Nimbus Sans'"
+           font-size="14px"
+           fill="#000000"
+           id="text727">{&quot;method&quot;: &quot;total&quot;, &quot;obs&quot;: &quot;size_factor&quot;, &quot;tot_counts&quot;: 10000.0}</text>
+      </g>
+      <g
+         id="edge7-3"
+         class="edge"
+         transform="translate(819.47199,1359.0203)">
+        <title
+           id="title730">Hrvatin2016__qc_cells_1-&gt;Hrvatin2016__size_factors</title>
+        <path
+           fill="none"
+           stroke="#000000"
+           d="m 194.5,-671.5974 c 0,9.962 0,21.5495 0,31.4801"
+           id="path732" />
+      </g>
+      <g
+         id="node9-6"
+         class="node"
+         transform="translate(819.47199,1359.0203)">
+        <title
+           id="title735">Hrvatin2016__pr_norm</title>
+        <path
+           fill="none"
+           stroke="#000000"
+           d="m 269.5,-562 c 0,0 -150,0 -150,0 -6,0 -12,6 -12,12 0,0 0,22 0,22 0,6 6,12 12,12 0,0 150,0 150,0 6,0 12,-6 12,-12 0,0 0,-22 0,-22 0,-6 -6,-12 -12,-12"
+           id="path737" />
+        <text
+           text-anchor="start"
+           x="145.5"
+           y="-545.79999"
+           font-family="'Nimbus Sans'"
+           font-weight="bold"
+           font-size="14px"
+           fill="#000000"
+           id="text739">SizeNormalizer</text>
+        <text
+           text-anchor="start"
+           x="117.5"
+           y="-525.79999"
+           font-family="'Nimbus Sans'"
+           font-size="14px"
+           fill="#000000"
+           id="text741">{&quot;use_obs&quot;: &quot;size_factor&quot;}</text>
+      </g>
+      <g
+         id="edge8-1"
+         class="edge"
+         transform="translate(819.47199,1359.0203)">
+        <title
+           id="title744">Hrvatin2016__size_factors-&gt;Hrvatin2016__pr_norm</title>
+        <path
+           fill="none"
+           stroke="#000000"
+           d="m 194.5,-593.5974 c 0,9.962 0,21.5495 0,31.4801"
+           id="path746" />
+      </g>
+      <g
+         id="node10-0"
+         class="node"
+         transform="translate(819.47199,1359.0203)">
+        <title
+           id="title749">Hrvatin2016__pr_log</title>
+        <path
+           fill="none"
+           stroke="#000000"
+           d="m 240.5,-484 c 0,0 -92,0 -92,0 -6,0 -12,6 -12,12 0,0 0,12 0,12 0,6 6,12 12,12 0,0 92,0 92,0 6,0 12,-6 12,-12 0,0 0,-12 0,-12 0,-6 -6,-12 -12,-12"
+           id="path751" />
+        <text
+           text-anchor="start"
+           x="146.5"
+           y="-462.79999"
+           font-family="'Nimbus Sans'"
+           font-weight="bold"
+           font-size="14px"
+           fill="#000000"
+           id="text753">LogNormalizer</text>
+      </g>
+      <g
+         id="edge9-63"
+         class="edge"
+         transform="translate(819.47199,1359.0203)">
+        <title
+           id="title756">Hrvatin2016__pr_norm-&gt;Hrvatin2016__pr_log</title>
+        <path
+           fill="none"
+           stroke="#000000"
+           d="m 194.5,-515.9023 c 0,10.1921 0,22.0032 0,31.5755"
+           id="path758" />
+      </g>
+      <g
+         id="node11-2"
+         class="node"
+         transform="translate(819.47199,1359.0203)">
+        <title
+           id="title761">Hrvatin2016__highly_variable</title>
+        <path
+           fill="none"
+           stroke="#000000"
+           d="m 288,-416 c 0,0 -187,0 -187,0 -6,0 -12,6 -12,12 0,0 0,22 0,22 0,6 6,12 12,12 0,0 187,0 187,0 6,0 12,-6 12,-12 0,0 0,-22 0,-22 0,-6 -6,-12 -12,-12"
+           id="path763" />
+        <text
+           text-anchor="start"
+           x="131.5"
+           y="-399.79999"
+           font-family="'Nimbus Sans'"
+           font-weight="bold"
+           font-size="14px"
+           fill="#000000"
+           id="text765">HighlyVariableFilter</text>
+        <text
+           text-anchor="start"
+           x="99.5"
+           y="-379.79999"
+           font-family="'Nimbus Sans'"
+           font-size="14px"
+           fill="#000000"
+           id="text767">{&quot;flavor&quot;: &quot;seurat&quot;, &quot;num&quot;: 2500}</text>
+      </g>
+      <g
+         id="edge10-0"
+         class="edge"
+         transform="translate(819.47199,1359.0203)">
+        <title
+           id="title770">Hrvatin2016__pr_log-&gt;Hrvatin2016__highly_variable</title>
+        <path
+           fill="none"
+           stroke="#000000"
+           d="m 194.5,-447.9551 c 0,9.6265 0,21.5772 0,31.8731"
+           id="path772" />
+      </g>
+      <g
+         id="node12-6"
+         class="node"
+         transform="translate(819.47199,1359.0203)">
+        <title
+           id="title775">Hrvatin2016__to_data</title>
+        <path
+           fill="none"
+           stroke="#000000"
+           d="m 245.5,-338 c 0,0 -102,0 -102,0 -6,0 -12,6 -12,12 0,0 0,22 0,22 0,6 6,12 12,12 0,0 102,0 102,0 6,0 12,-6 12,-12 0,0 0,-22 0,-22 0,-6 -6,-12 -12,-12"
+           id="path777" />
+        <text
+           text-anchor="start"
+           x="153.5"
+           y="-321.79999"
+           font-family="'Nimbus Sans'"
+           font-weight="bold"
+           font-size="14px"
+           fill="#000000"
+           id="text779">LayerToData</text>
+        <text
+           text-anchor="start"
+           x="141.5"
+           y="-301.79999"
+           font-family="'Nimbus Sans'"
+           font-size="14px"
+           fill="#000000"
+           id="text781">{&quot;layer&quot;: &quot;counts&quot;}</text>
+      </g>
+      <g
+         id="edge11-1"
+         class="edge"
+         transform="translate(819.47199,1359.0203)">
+        <title
+           id="title784">Hrvatin2016__highly_variable-&gt;Hrvatin2016__to_data</title>
+        <path
+           fill="none"
+           stroke="#000000"
+           d="m 194.5,-369.5974 c 0,9.962 0,21.5495 0,31.4801"
+           id="path786" />
+      </g>
+    </g>
+    <g
+       id="node16-93"
+       class="node"
+       transform="translate(810.55635,1123.7817)">
+      <title
+         id="title829">Hrvatin2016__CAPTION</title>
+      <text
+         text-anchor="start"
+         x="156"
+         y="-15.3"
+         font-family="'Nimbus Sans'"
+         font-weight="bold"
+         font-size="14px"
+         fill="#000000"
+         id="text831">Hrvatin2016</text>
+    </g>
+    <g
+       id="g4354"
+       transform="translate(-150,10.5348)">
+      <g
+         id="node2-5"
+         class="node"
+         transform="translate(1366.5299,1350.4652)">
+        <title
+           id="title996">Jensen2022__resampling</title>
+        <path
+           fill="none"
+           stroke="#000000"
+           d="m 371.5,-1184 c 0,0 -354,0 -354,0 -6,0 -12,6 -12,12 0,0 0,22 0,22 0,6 6,12 12,12 0,0 354,0 354,0 6,0 12,-6 12,-12 0,0 0,-22 0,-22 0,-6 -6,-12 -12,-12"
+           id="path998" />
+        <text
+           text-anchor="start"
+           x="155"
+           y="-1167.8"
+           font-family="'Nimbus Sans'"
+           font-weight="bold"
+           font-size="14px"
+           fill="#000000"
+           id="text1000">Subsampler</text>
+        <text
+           text-anchor="start"
+           x="15.5"
+           y="-1147.8"
+           font-family="'Nimbus Sans'"
+           font-size="14px"
+           fill="#000000"
+           id="text1002">{&quot;num_cells&quot;: 40000, &quot;replace&quot;: false, &quot;rng&quot;: &quot;&lt;Generator&gt;&quot;}</text>
+      </g>
+      <g
+         id="node4-7"
+         class="node"
+         transform="translate(1366.5299,1350.4652)">
+        <title
+           id="title1032">Jensen2022__resampling_2</title>
+        <path
+           fill="none"
+           stroke="#000000"
+           d="m 368,-952 c 0,0 -347,0 -347,0 -6,0 -12,6 -12,12 0,0 0,22 0,22 0,6 6,12 12,12 0,0 347,0 347,0 6,0 12,-6 12,-12 0,0 0,-22 0,-22 0,-6 -6,-12 -12,-12"
+           id="path1034" />
+        <text
+           text-anchor="start"
+           x="155.5"
+           y="-935.79999"
+           font-family="'Nimbus Sans'"
+           font-weight="bold"
+           font-size="14px"
+           fill="#000000"
+           id="text1036">Subsampler</text>
+        <text
+           text-anchor="start"
+           x="19.5"
+           y="-915.79999"
+           font-family="'Nimbus Sans'"
+           font-size="14px"
+           fill="#000000"
+           id="text1038">{&quot;num_cells&quot;: 3000, &quot;replace&quot;: false, &quot;rng&quot;: &quot;&lt;Generator&gt;&quot;}</text>
+      </g>
+      <g
+         id="node8-4"
+         class="node"
+         transform="translate(1366.5299,1350.4652)">
+        <title
+           id="title1088">Jensen2022__size_factors</title>
+        <path
+           fill="none"
+           stroke="#000000"
+           d="m 377,-640 c 0,0 -365,0 -365,0 -6,0 -12,6 -12,12 0,0 0,22 0,22 0,6 6,12 12,12 0,0 365,0 365,0 6,0 12,-6 12,-12 0,0 0,-22 0,-22 0,-6 -6,-12 -12,-12"
+           id="path1090" />
+        <text
+           text-anchor="start"
+           x="127"
+           y="-623.79999"
+           font-family="'Nimbus Sans'"
+           font-weight="bold"
+           font-size="14px"
+           fill="#000000"
+           id="text1092">ComputeSizeFactors</text>
+        <text
+           text-anchor="start"
+           x="10.5"
+           y="-603.79999"
+           font-family="'Nimbus Sans'"
+           font-size="14px"
+           fill="#000000"
+           id="text1094">{&quot;method&quot;: &quot;total&quot;, &quot;obs&quot;: &quot;size_factor&quot;, &quot;tot_counts&quot;: 10000.0}</text>
+      </g>
+      <g
+         id="g4054">
+        <g
+           id="node1-4"
+           class="node"
+           transform="translate(1366.5299,1350.4652)">
+          <title
+             id="title977">Jensen2022__qc_cells</title>
+          <path
+             fill="none"
+             stroke="#000000"
+             d="m 276,-1357 c 0,0 -163,0 -163,0 -6,0 -12,6 -12,12 0,0 0,117 0,117 0,6 6,12 12,12 0,0 163,0 163,0 6,0 12,-6 12,-12 0,0 0,-117 0,-117 0,-6 -6,-12 -12,-12"
+             id="path979" />
+          <text
+             text-anchor="start"
+             x="139"
+             y="-1340.3"
+             font-family="'Nimbus Sans'"
+             font-weight="bold"
+             font-size="14px"
+             fill="#000000"
+             id="text981">CellsQualityFilter</text>
+          <text
+             text-anchor="start"
+             x="111.5"
+             y="-1320.3"
+             font-family="'Nimbus Sans'"
+             font-size="14px"
+             fill="#000000"
+             id="text983">{</text>
+          <text
+             text-anchor="start"
+             x="111.5"
+             y="-1301.3"
+             font-family="'Nimbus Sans'"
+             font-size="14px"
+             fill="#000000"
+             id="text985"> &quot;max_genes&quot;: 6000,</text>
+          <text
+             text-anchor="start"
+             x="111.5"
+             y="-1282.3"
+             font-family="'Nimbus Sans'"
+             font-size="14px"
+             fill="#000000"
+             id="text987"> &quot;max_pct_mt&quot;: 10,</text>
+          <text
+             text-anchor="start"
+             x="111.5"
+             y="-1263.3"
+             font-family="'Nimbus Sans'"
+             font-size="14px"
+             fill="#000000"
+             id="text989"> &quot;max_tot_counts&quot;: 30000,</text>
+          <text
+             text-anchor="start"
+             x="111.5"
+             y="-1244.3"
+             font-family="'Nimbus Sans'"
+             font-size="14px"
+             fill="#000000"
+             id="text991"> &quot;min_genes&quot;: 200</text>
+          <text
+             text-anchor="start"
+             x="111.5"
+             y="-1225.3"
+             font-family="'Nimbus Sans'"
+             font-size="14px"
+             fill="#000000"
+             id="text993">}</text>
+        </g>
+        <g
+           id="edge1-2"
+           class="edge"
+           transform="translate(1366.5299,1350.4652)">
+          <title
+             id="title1005">Jensen2022__qc_cells-&gt;Jensen2022__resampling</title>
+          <path
+             fill="none"
+             stroke="#000000"
+             d="m 194.5,-1215.681 c 0,11.3422 0,22.3269 0,31.4383"
+             id="path1007" />
+        </g>
+        <g
+           id="node3-5"
+           class="node"
+           transform="translate(1366.5299,1350.4652)">
+          <title
+             id="title1010">Jensen2022__qc_genes</title>
+          <path
+             fill="none"
+             stroke="#000000"
+             d="m 304,-1106 c 0,0 -219,0 -219,0 -6,0 -12,6 -12,12 0,0 0,98 0,98 0,6 6,12 12,12 0,0 219,0 219,0 6,0 12,-6 12,-12 0,0 0,-98 0,-98 0,-6 -6,-12 -12,-12"
+             id="path1012" />
+          <text
+             text-anchor="start"
+             x="134"
+             y="-1089.8"
+             font-family="'Nimbus Sans'"
+             font-weight="bold"
+             font-size="14px"
+             fill="#000000"
+             id="text1014">GenesQualityFilter</text>
+          <text
+             text-anchor="start"
+             x="83.5"
+             y="-1069.8"
+             font-family="'Nimbus Sans'"
+             font-size="14px"
+             fill="#000000"
+             id="text1016">{</text>
+          <text
+             text-anchor="start"
+             x="83.5"
+             y="-1050.8"
+             font-family="'Nimbus Sans'"
+             font-size="14px"
+             fill="#000000"
+             id="text1018"> &quot;max_gene_tot_counts&quot;: 100000.0,</text>
+          <text
+             text-anchor="start"
+             x="83.5"
+             y="-1031.8"
+             font-family="'Nimbus Sans'"
+             font-size="14px"
+             fill="#000000"
+             id="text1020"> &quot;min_gene_tot_counts&quot;: 0,</text>
+          <text
+             text-anchor="start"
+             x="83.5"
+             y="-1012.8"
+             font-family="'Nimbus Sans'"
+             font-size="14px"
+             fill="#000000"
+             id="text1022"> &quot;min_pct_cells&quot;: 0.7</text>
+          <text
+             text-anchor="start"
+             x="83.5"
+             y="-993.79999"
+             font-family="'Nimbus Sans'"
+             font-size="14px"
+             fill="#000000"
+             id="text1024">}</text>
+        </g>
+        <g
+           id="edge2-4"
+           class="edge"
+           transform="translate(1366.5299,1350.4652)">
+          <title
+             id="title1027">Jensen2022__resampling-&gt;Jensen2022__qc_genes</title>
+          <path
+             fill="none"
+             stroke="#000000"
+             d="m 194.5,-1137.8045 c 0,9.2564 0,20.3895 0,31.6809"
+             id="path1029" />
+        </g>
+        <g
+           id="edge3-4"
+           class="edge"
+           transform="translate(1366.5299,1350.4652)">
+          <title
+             id="title1041">Jensen2022__qc_genes-&gt;Jensen2022__resampling_2</title>
+          <path
+             fill="none"
+             stroke="#000000"
+             d="m 194.5,-983.9427 c 0,11.353 0,22.5494 0,31.8427"
+             id="path1043" />
+        </g>
+        <g
+           id="node5-4"
+           class="node"
+           transform="translate(1366.5299,1350.4652)">
+          <title
+             id="title1046">Jensen2022__to_layer</title>
+          <path
+             fill="none"
+             stroke="#000000"
+             d="m 245.5,-874 c 0,0 -102,0 -102,0 -6,0 -12,6 -12,12 0,0 0,22 0,22 0,6 6,12 12,12 0,0 102,0 102,0 6,0 12,-6 12,-12 0,0 0,-22 0,-22 0,-6 -6,-12 -12,-12"
+             id="path1048" />
+          <text
+             text-anchor="start"
+             x="153.5"
+             y="-857.79999"
+             font-family="'Nimbus Sans'"
+             font-weight="bold"
+             font-size="14px"
+             fill="#000000"
+             id="text1050">DataToLayer</text>
+          <text
+             text-anchor="start"
+             x="141.5"
+             y="-837.79999"
+             font-family="'Nimbus Sans'"
+             font-size="14px"
+             fill="#000000"
+             id="text1052">{&quot;layer&quot;: &quot;counts&quot;}</text>
+        </g>
+        <g
+           id="edge4-3"
+           class="edge"
+           transform="translate(1366.5299,1350.4652)">
+          <title
+             id="title1055">Jensen2022__resampling_2-&gt;Jensen2022__to_layer</title>
+          <path
+             fill="none"
+             stroke="#000000"
+             d="m 194.5,-905.5974 c 0,9.962 0,21.5495 0,31.4801"
+             id="path1057" />
+        </g>
+        <g
+           id="node6-0"
+           class="node"
+           transform="translate(1366.5299,1350.4652)">
+          <title
+             id="title1060">Jensen2022__qc_genes_1</title>
+          <path
+             fill="none"
+             stroke="#000000"
+             d="m 338.5,-796 c 0,0 -288,0 -288,0 -6,0 -12,6 -12,12 0,0 0,22 0,22 0,6 6,12 12,12 0,0 288,0 288,0 6,0 12,-6 12,-12 0,0 0,-22 0,-22 0,-6 -6,-12 -12,-12"
+             id="path1062" />
+          <text
+             text-anchor="start"
+             x="133.5"
+             y="-779.79999"
+             font-family="'Nimbus Sans'"
+             font-weight="bold"
+             font-size="14px"
+             fill="#000000"
+             id="text1064">GenesQualityFilter</text>
+          <text
+             text-anchor="start"
+             x="48.5"
+             y="-759.79999"
+             font-family="'Nimbus Sans'"
+             font-size="14px"
+             fill="#000000"
+             id="text1066">{&quot;min_gene_tot_counts&quot;: 0, &quot;min_pct_cells&quot;: 0.7}</text>
+        </g>
+        <g
+           id="edge5-786"
+           class="edge"
+           transform="translate(1366.5299,1350.4652)">
+          <title
+             id="title1069">Jensen2022__to_layer-&gt;Jensen2022__qc_genes_1</title>
+          <path
+             fill="none"
+             stroke="#000000"
+             d="m 194.5,-827.5974 c 0,9.962 0,21.5495 0,31.4801"
+             id="path1071" />
+        </g>
+        <g
+           id="node7-8"
+           class="node"
+           transform="translate(1366.5299,1350.4652)">
+          <title
+             id="title1074">Jensen2022__qc_cells_1</title>
+          <path
+             fill="none"
+             stroke="#000000"
+             d="m 248.5,-718 c 0,0 -108,0 -108,0 -6,0 -12,6 -12,12 0,0 0,22 0,22 0,6 6,12 12,12 0,0 108,0 108,0 6,0 12,-6 12,-12 0,0 0,-22 0,-22 0,-6 -6,-12 -12,-12"
+             id="path1076" />
+          <text
+             text-anchor="start"
+             x="138.5"
+             y="-701.79999"
+             font-family="'Nimbus Sans'"
+             font-weight="bold"
+             font-size="14px"
+             fill="#000000"
+             id="text1078">CellsQualityFilter</text>
+          <text
+             text-anchor="start"
+             x="138.5"
+             y="-681.79999"
+             font-family="'Nimbus Sans'"
+             font-size="14px"
+             fill="#000000"
+             id="text1080">{&quot;min_genes&quot;: 20}</text>
+        </g>
+        <g
+           id="edge6-8"
+           class="edge"
+           transform="translate(1366.5299,1350.4652)">
+          <title
+             id="title1083">Jensen2022__qc_genes_1-&gt;Jensen2022__qc_cells_1</title>
+          <path
+             fill="none"
+             stroke="#000000"
+             d="m 194.5,-749.5974 c 0,9.962 0,21.5495 0,31.4801"
+             id="path1085" />
+        </g>
+        <g
+           id="edge7-31"
+           class="edge"
+           transform="translate(1366.5299,1350.4652)">
+          <title
+             id="title1097">Jensen2022__qc_cells_1-&gt;Jensen2022__size_factors</title>
+          <path
+             fill="none"
+             stroke="#000000"
+             d="m 194.5,-671.5974 c 0,9.962 0,21.5495 0,31.4801"
+             id="path1099" />
+        </g>
+        <g
+           id="node9-4"
+           class="node"
+           transform="translate(1366.5299,1350.4652)">
+          <title
+             id="title1102">Jensen2022__pr_norm</title>
+          <path
+             fill="none"
+             stroke="#000000"
+             d="m 269.5,-562 c 0,0 -150,0 -150,0 -6,0 -12,6 -12,12 0,0 0,22 0,22 0,6 6,12 12,12 0,0 150,0 150,0 6,0 12,-6 12,-12 0,0 0,-22 0,-22 0,-6 -6,-12 -12,-12"
+             id="path1104" />
+          <text
+             text-anchor="start"
+             x="145.5"
+             y="-545.79999"
+             font-family="'Nimbus Sans'"
+             font-weight="bold"
+             font-size="14px"
+             fill="#000000"
+             id="text1106">SizeNormalizer</text>
+          <text
+             text-anchor="start"
+             x="117.5"
+             y="-525.79999"
+             font-family="'Nimbus Sans'"
+             font-size="14px"
+             fill="#000000"
+             id="text1108">{&quot;use_obs&quot;: &quot;size_factor&quot;}</text>
+        </g>
+        <g
+           id="edge8-9"
+           class="edge"
+           transform="translate(1366.5299,1350.4652)">
+          <title
+             id="title1111">Jensen2022__size_factors-&gt;Jensen2022__pr_norm</title>
+          <path
+             fill="none"
+             stroke="#000000"
+             d="m 194.5,-593.5974 c 0,9.962 0,21.5495 0,31.4801"
+             id="path1113" />
+        </g>
+        <g
+           id="node10-20"
+           class="node"
+           transform="translate(1366.5299,1350.4652)">
+          <title
+             id="title1116">Jensen2022__pr_log</title>
+          <path
+             fill="none"
+             stroke="#000000"
+             d="m 240.5,-484 c 0,0 -92,0 -92,0 -6,0 -12,6 -12,12 0,0 0,12 0,12 0,6 6,12 12,12 0,0 92,0 92,0 6,0 12,-6 12,-12 0,0 0,-12 0,-12 0,-6 -6,-12 -12,-12"
+             id="path1118" />
+          <text
+             text-anchor="start"
+             x="146.5"
+             y="-462.79999"
+             font-family="'Nimbus Sans'"
+             font-weight="bold"
+             font-size="14px"
+             fill="#000000"
+             id="text1120">LogNormalizer</text>
+        </g>
+        <g
+           id="edge9-68"
+           class="edge"
+           transform="translate(1366.5299,1350.4652)">
+          <title
+             id="title1123">Jensen2022__pr_norm-&gt;Jensen2022__pr_log</title>
+          <path
+             fill="none"
+             stroke="#000000"
+             d="m 194.5,-515.9023 c 0,10.1921 0,22.0032 0,31.5755"
+             id="path1125" />
+        </g>
+        <g
+           id="node11-9"
+           class="node"
+           transform="translate(1366.5299,1350.4652)">
+          <title
+             id="title1128">Jensen2022__highly_variable</title>
+          <path
+             fill="none"
+             stroke="#000000"
+             d="m 288,-416 c 0,0 -187,0 -187,0 -6,0 -12,6 -12,12 0,0 0,22 0,22 0,6 6,12 12,12 0,0 187,0 187,0 6,0 12,-6 12,-12 0,0 0,-22 0,-22 0,-6 -6,-12 -12,-12"
+             id="path1130" />
+          <text
+             text-anchor="start"
+             x="131.5"
+             y="-399.79999"
+             font-family="'Nimbus Sans'"
+             font-weight="bold"
+             font-size="14px"
+             fill="#000000"
+             id="text1132">HighlyVariableFilter</text>
+          <text
+             text-anchor="start"
+             x="99.5"
+             y="-379.79999"
+             font-family="'Nimbus Sans'"
+             font-size="14px"
+             fill="#000000"
+             id="text1134">{&quot;flavor&quot;: &quot;seurat&quot;, &quot;num&quot;: 2500}</text>
+        </g>
+        <g
+           id="edge10-2"
+           class="edge"
+           transform="translate(1366.5299,1350.4652)">
+          <title
+             id="title1137">Jensen2022__pr_log-&gt;Jensen2022__highly_variable</title>
+          <path
+             fill="none"
+             stroke="#000000"
+             d="m 194.5,-447.9551 c 0,9.6265 0,21.5772 0,31.8731"
+             id="path1139" />
+        </g>
+        <g
+           id="node12-66"
+           class="node"
+           transform="translate(1366.5299,1350.4652)">
+          <title
+             id="title1142">Jensen2022__to_data</title>
+          <path
+             fill="none"
+             stroke="#000000"
+             d="m 245.5,-338 c 0,0 -102,0 -102,0 -6,0 -12,6 -12,12 0,0 0,22 0,22 0,6 6,12 12,12 0,0 102,0 102,0 6,0 12,-6 12,-12 0,0 0,-22 0,-22 0,-6 -6,-12 -12,-12"
+             id="path1144" />
+          <text
+             text-anchor="start"
+             x="153.5"
+             y="-321.79999"
+             font-family="'Nimbus Sans'"
+             font-weight="bold"
+             font-size="14px"
+             fill="#000000"
+             id="text1146">LayerToData</text>
+          <text
+             text-anchor="start"
+             x="141.5"
+             y="-301.79999"
+             font-family="'Nimbus Sans'"
+             font-size="14px"
+             fill="#000000"
+             id="text1148">{&quot;layer&quot;: &quot;counts&quot;}</text>
+        </g>
+        <g
+           id="edge11-4"
+           class="edge"
+           transform="translate(1366.5299,1350.4652)">
+          <title
+             id="title1151">Jensen2022__highly_variable-&gt;Jensen2022__to_data</title>
+          <path
+             fill="none"
+             stroke="#000000"
+             d="m 194.5,-369.5974 c 0,9.962 0,21.5495 0,31.4801"
+             id="path1153" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="node16-2"
+       class="node"
+       transform="translate(1215.4229,1123.7817)">
+      <title
+         id="title1196">Jensen2022__CAPTION</title>
+      <text
+         text-anchor="start"
+         x="156"
+         y="-15.3"
+         font-family="'Nimbus Sans'"
+         font-weight="bold"
+         font-size="14px"
+         fill="#000000"
+         id="text1198">Jensen2022</text>
+    </g>
+    <g
+       id="g4664"
+       transform="translate(-207,2.7902)">
+      <g
+         id="node1-26"
+         class="node"
+         transform="translate(1827.0408,1358.2098)">
+        <title
+           id="title1852">Macosko2015__qc_cells</title>
+        <path
+           fill="none"
+           stroke="#000000"
+           d="m 276,-1357 c 0,0 -163,0 -163,0 -6,0 -12,6 -12,12 0,0 0,117 0,117 0,6 6,12 12,12 0,0 163,0 163,0 6,0 12,-6 12,-12 0,0 0,-117 0,-117 0,-6 -6,-12 -12,-12"
+           id="path1854" />
+        <text
+           text-anchor="start"
+           x="139"
+           y="-1340.3"
+           font-family="'Nimbus Sans'"
+           font-weight="bold"
+           font-size="14px"
+           fill="#000000"
+           id="text1856">CellsQualityFilter</text>
+        <text
+           text-anchor="start"
+           x="111.5"
+           y="-1320.3"
+           font-family="'Nimbus Sans'"
+           font-size="14px"
+           fill="#000000"
+           id="text1858">{</text>
+        <text
+           text-anchor="start"
+           x="111.5"
+           y="-1301.3"
+           font-family="'Nimbus Sans'"
+           font-size="14px"
+           fill="#000000"
+           id="text1860"> &quot;max_genes&quot;: 5000,</text>
+        <text
+           text-anchor="start"
+           x="111.5"
+           y="-1282.3"
+           font-family="'Nimbus Sans'"
+           font-size="14px"
+           fill="#000000"
+           id="text1862"> &quot;max_pct_mt&quot;: 6,</text>
+        <text
+           text-anchor="start"
+           x="111.5"
+           y="-1263.3"
+           font-family="'Nimbus Sans'"
+           font-size="14px"
+           fill="#000000"
+           id="text1864"> &quot;max_tot_counts&quot;: 12000,</text>
+        <text
+           text-anchor="start"
+           x="111.5"
+           y="-1244.3"
+           font-family="'Nimbus Sans'"
+           font-size="14px"
+           fill="#000000"
+           id="text1866"> &quot;min_genes&quot;: 200</text>
+        <text
+           text-anchor="start"
+           x="111.5"
+           y="-1225.3"
+           font-family="'Nimbus Sans'"
+           font-size="14px"
+           fill="#000000"
+           id="text1868">}</text>
+      </g>
+      <g
+         id="node2-1"
+         class="node"
+         transform="translate(1827.0408,1358.2098)">
+        <title
+           id="title1871">Macosko2015__resampling</title>
+        <path
+           fill="none"
+           stroke="#000000"
+           d="m 371.5,-1184 c 0,0 -354,0 -354,0 -6,0 -12,6 -12,12 0,0 0,22 0,22 0,6 6,12 12,12 0,0 354,0 354,0 6,0 12,-6 12,-12 0,0 0,-22 0,-22 0,-6 -6,-12 -12,-12"
+           id="path1873" />
+        <text
+           text-anchor="start"
+           x="155"
+           y="-1167.8"
+           font-family="'Nimbus Sans'"
+           font-weight="bold"
+           font-size="14px"
+           fill="#000000"
+           id="text1875">Subsampler</text>
+        <text
+           text-anchor="start"
+           x="15.5"
+           y="-1147.8"
+           font-family="'Nimbus Sans'"
+           font-size="14px"
+           fill="#000000"
+           id="text1877">{&quot;num_cells&quot;: 40000, &quot;replace&quot;: false, &quot;rng&quot;: &quot;&lt;Generator&gt;&quot;}</text>
+      </g>
+      <g
+         id="edge1-0"
+         class="edge"
+         transform="translate(1827.0408,1358.2098)">
+        <title
+           id="title1880">Macosko2015__qc_cells-&gt;Macosko2015__resampling</title>
+        <path
+           fill="none"
+           stroke="#000000"
+           d="m 194.5,-1215.681 c 0,11.3422 0,22.3269 0,31.4383"
+           id="path1882" />
+      </g>
+      <g
+         id="node3-6"
+         class="node"
+         transform="translate(1827.0408,1358.2098)">
+        <title
+           id="title1885">Macosko2015__qc_genes</title>
+        <path
+           fill="none"
+           stroke="#000000"
+           d="m 304,-1106 c 0,0 -219,0 -219,0 -6,0 -12,6 -12,12 0,0 0,98 0,98 0,6 6,12 12,12 0,0 219,0 219,0 6,0 12,-6 12,-12 0,0 0,-98 0,-98 0,-6 -6,-12 -12,-12"
+           id="path1887" />
+        <text
+           text-anchor="start"
+           x="134"
+           y="-1089.8"
+           font-family="'Nimbus Sans'"
+           font-weight="bold"
+           font-size="14px"
+           fill="#000000"
+           id="text1889">GenesQualityFilter</text>
+        <text
+           text-anchor="start"
+           x="83.5"
+           y="-1069.8"
+           font-family="'Nimbus Sans'"
+           font-size="14px"
+           fill="#000000"
+           id="text1891">{</text>
+        <text
+           text-anchor="start"
+           x="83.5"
+           y="-1050.8"
+           font-family="'Nimbus Sans'"
+           font-size="14px"
+           fill="#000000"
+           id="text1893"> &quot;max_gene_tot_counts&quot;: 100000.0,</text>
+        <text
+           text-anchor="start"
+           x="83.5"
+           y="-1031.8"
+           font-family="'Nimbus Sans'"
+           font-size="14px"
+           fill="#000000"
+           id="text1895"> &quot;min_gene_tot_counts&quot;: 0,</text>
+        <text
+           text-anchor="start"
+           x="83.5"
+           y="-1012.8"
+           font-family="'Nimbus Sans'"
+           font-size="14px"
+           fill="#000000"
+           id="text1897"> &quot;min_pct_cells&quot;: 0.7</text>
+        <text
+           text-anchor="start"
+           x="83.5"
+           y="-993.79999"
+           font-family="'Nimbus Sans'"
+           font-size="14px"
+           fill="#000000"
+           id="text1899">}</text>
+      </g>
+      <g
+         id="edge2-1"
+         class="edge"
+         transform="translate(1827.0408,1358.2098)">
+        <title
+           id="title1902">Macosko2015__resampling-&gt;Macosko2015__qc_genes</title>
+        <path
+           fill="none"
+           stroke="#000000"
+           d="m 194.5,-1137.8045 c 0,9.2564 0,20.3895 0,31.6809"
+           id="path1904" />
+      </g>
+      <g
+         id="node4-5"
+         class="node"
+         transform="translate(1827.0408,1358.2098)">
+        <title
+           id="title1907">Macosko2015__resampling_2</title>
+        <path
+           fill="none"
+           stroke="#000000"
+           d="m 368,-952 c 0,0 -347,0 -347,0 -6,0 -12,6 -12,12 0,0 0,22 0,22 0,6 6,12 12,12 0,0 347,0 347,0 6,0 12,-6 12,-12 0,0 0,-22 0,-22 0,-6 -6,-12 -12,-12"
+           id="path1909" />
+        <text
+           text-anchor="start"
+           x="155.5"
+           y="-935.79999"
+           font-family="'Nimbus Sans'"
+           font-weight="bold"
+           font-size="14px"
+           fill="#000000"
+           id="text1911">Subsampler</text>
+        <text
+           text-anchor="start"
+           x="19.5"
+           y="-915.79999"
+           font-family="'Nimbus Sans'"
+           font-size="14px"
+           fill="#000000"
+           id="text1913">{&quot;num_cells&quot;: 3000, &quot;replace&quot;: false, &quot;rng&quot;: &quot;&lt;Generator&gt;&quot;}</text>
+      </g>
+      <g
+         id="edge3-9"
+         class="edge"
+         transform="translate(1827.0408,1358.2098)">
+        <title
+           id="title1916">Macosko2015__qc_genes-&gt;Macosko2015__resampling_2</title>
+        <path
+           fill="none"
+           stroke="#000000"
+           d="m 194.5,-983.9427 c 0,11.353 0,22.5494 0,31.8427"
+           id="path1918" />
+      </g>
+      <g
+         id="node5-49"
+         class="node"
+         transform="translate(1827.0408,1358.2098)">
+        <title
+           id="title1921">Macosko2015__to_layer</title>
+        <path
+           fill="none"
+           stroke="#000000"
+           d="m 245.5,-874 c 0,0 -102,0 -102,0 -6,0 -12,6 -12,12 0,0 0,22 0,22 0,6 6,12 12,12 0,0 102,0 102,0 6,0 12,-6 12,-12 0,0 0,-22 0,-22 0,-6 -6,-12 -12,-12"
+           id="path1923" />
+        <text
+           text-anchor="start"
+           x="153.5"
+           y="-857.79999"
+           font-family="'Nimbus Sans'"
+           font-weight="bold"
+           font-size="14px"
+           fill="#000000"
+           id="text1925">DataToLayer</text>
+        <text
+           text-anchor="start"
+           x="141.5"
+           y="-837.79999"
+           font-family="'Nimbus Sans'"
+           font-size="14px"
+           fill="#000000"
+           id="text1927">{&quot;layer&quot;: &quot;counts&quot;}</text>
+      </g>
+      <g
+         id="edge4-0"
+         class="edge"
+         transform="translate(1827.0408,1358.2098)">
+        <title
+           id="title1930">Macosko2015__resampling_2-&gt;Macosko2015__to_layer</title>
+        <path
+           fill="none"
+           stroke="#000000"
+           d="m 194.5,-905.5974 c 0,9.962 0,21.5495 0,31.4801"
+           id="path1932" />
+      </g>
+      <g
+         id="node6-9"
+         class="node"
+         transform="translate(1827.0408,1358.2098)">
+        <title
+           id="title1935">Macosko2015__qc_genes_1</title>
+        <path
+           fill="none"
+           stroke="#000000"
+           d="m 338.5,-796 c 0,0 -288,0 -288,0 -6,0 -12,6 -12,12 0,0 0,22 0,22 0,6 6,12 12,12 0,0 288,0 288,0 6,0 12,-6 12,-12 0,0 0,-22 0,-22 0,-6 -6,-12 -12,-12"
+           id="path1937" />
+        <text
+           text-anchor="start"
+           x="133.5"
+           y="-779.79999"
+           font-family="'Nimbus Sans'"
+           font-weight="bold"
+           font-size="14px"
+           fill="#000000"
+           id="text1939">GenesQualityFilter</text>
+        <text
+           text-anchor="start"
+           x="48.5"
+           y="-759.79999"
+           font-family="'Nimbus Sans'"
+           font-size="14px"
+           fill="#000000"
+           id="text1941">{&quot;min_gene_tot_counts&quot;: 0, &quot;min_pct_cells&quot;: 0.7}</text>
+      </g>
+      <g
+         id="edge5-1"
+         class="edge"
+         transform="translate(1827.0408,1358.2098)">
+        <title
+           id="title1944">Macosko2015__to_layer-&gt;Macosko2015__qc_genes_1</title>
+        <path
+           fill="none"
+           stroke="#000000"
+           d="m 194.5,-827.5974 c 0,9.962 0,21.5495 0,31.4801"
+           id="path1946" />
+      </g>
+      <g
+         id="node7-7"
+         class="node"
+         transform="translate(1827.0408,1358.2098)">
+        <title
+           id="title1949">Macosko2015__qc_cells_1</title>
+        <path
+           fill="none"
+           stroke="#000000"
+           d="m 248.5,-718 c 0,0 -108,0 -108,0 -6,0 -12,6 -12,12 0,0 0,22 0,22 0,6 6,12 12,12 0,0 108,0 108,0 6,0 12,-6 12,-12 0,0 0,-22 0,-22 0,-6 -6,-12 -12,-12"
+           id="path1951" />
+        <text
+           text-anchor="start"
+           x="138.5"
+           y="-701.79999"
+           font-family="'Nimbus Sans'"
+           font-weight="bold"
+           font-size="14px"
+           fill="#000000"
+           id="text1953">CellsQualityFilter</text>
+        <text
+           text-anchor="start"
+           x="138.5"
+           y="-681.79999"
+           font-family="'Nimbus Sans'"
+           font-size="14px"
+           fill="#000000"
+           id="text1955">{&quot;min_genes&quot;: 20}</text>
+      </g>
+      <g
+         id="edge6-7"
+         class="edge"
+         transform="translate(1827.0408,1358.2098)">
+        <title
+           id="title1958">Macosko2015__qc_genes_1-&gt;Macosko2015__qc_cells_1</title>
+        <path
+           fill="none"
+           stroke="#000000"
+           d="m 194.5,-749.5974 c 0,9.962 0,21.5495 0,31.4801"
+           id="path1960" />
+      </g>
+      <g
+         id="node8-1"
+         class="node"
+         transform="translate(1827.0408,1358.2098)">
+        <title
+           id="title1963">Macosko2015__size_factors</title>
+        <path
+           fill="none"
+           stroke="#000000"
+           d="m 377,-640 c 0,0 -365,0 -365,0 -6,0 -12,6 -12,12 0,0 0,22 0,22 0,6 6,12 12,12 0,0 365,0 365,0 6,0 12,-6 12,-12 0,0 0,-22 0,-22 0,-6 -6,-12 -12,-12"
+           id="path1965" />
+        <text
+           text-anchor="start"
+           x="127"
+           y="-623.79999"
+           font-family="'Nimbus Sans'"
+           font-weight="bold"
+           font-size="14px"
+           fill="#000000"
+           id="text1967">ComputeSizeFactors</text>
+        <text
+           text-anchor="start"
+           x="10.5"
+           y="-603.79999"
+           font-family="'Nimbus Sans'"
+           font-size="14px"
+           fill="#000000"
+           id="text1969">{&quot;method&quot;: &quot;total&quot;, &quot;obs&quot;: &quot;size_factor&quot;, &quot;tot_counts&quot;: 10000.0}</text>
+      </g>
+      <g
+         id="edge7-1"
+         class="edge"
+         transform="translate(1827.0408,1358.2098)">
+        <title
+           id="title1972">Macosko2015__qc_cells_1-&gt;Macosko2015__size_factors</title>
+        <path
+           fill="none"
+           stroke="#000000"
+           d="m 194.5,-671.5974 c 0,9.962 0,21.5495 0,31.4801"
+           id="path1974" />
+      </g>
+      <g
+         id="node9-5"
+         class="node"
+         transform="translate(1827.0408,1358.2098)">
+        <title
+           id="title1977">Macosko2015__pr_norm</title>
+        <path
+           fill="none"
+           stroke="#000000"
+           d="m 269.5,-562 c 0,0 -150,0 -150,0 -6,0 -12,6 -12,12 0,0 0,22 0,22 0,6 6,12 12,12 0,0 150,0 150,0 6,0 12,-6 12,-12 0,0 0,-22 0,-22 0,-6 -6,-12 -12,-12"
+           id="path1979" />
+        <text
+           text-anchor="start"
+           x="145.5"
+           y="-545.79999"
+           font-family="'Nimbus Sans'"
+           font-weight="bold"
+           font-size="14px"
+           fill="#000000"
+           id="text1981">SizeNormalizer</text>
+        <text
+           text-anchor="start"
+           x="117.5"
+           y="-525.79999"
+           font-family="'Nimbus Sans'"
+           font-size="14px"
+           fill="#000000"
+           id="text1983">{&quot;use_obs&quot;: &quot;size_factor&quot;}</text>
+      </g>
+      <g
+         id="edge8-97"
+         class="edge"
+         transform="translate(1827.0408,1358.2098)">
+        <title
+           id="title1986">Macosko2015__size_factors-&gt;Macosko2015__pr_norm</title>
+        <path
+           fill="none"
+           stroke="#000000"
+           d="m 194.5,-593.5974 c 0,9.962 0,21.5495 0,31.4801"
+           id="path1988" />
+      </g>
+      <g
+         id="node10-7"
+         class="node"
+         transform="translate(1827.0408,1358.2098)">
+        <title
+           id="title1991">Macosko2015__pr_log</title>
+        <path
+           fill="none"
+           stroke="#000000"
+           d="m 240.5,-484 c 0,0 -92,0 -92,0 -6,0 -12,6 -12,12 0,0 0,12 0,12 0,6 6,12 12,12 0,0 92,0 92,0 6,0 12,-6 12,-12 0,0 0,-12 0,-12 0,-6 -6,-12 -12,-12"
+           id="path1993" />
+        <text
+           text-anchor="start"
+           x="146.5"
+           y="-462.79999"
+           font-family="'Nimbus Sans'"
+           font-weight="bold"
+           font-size="14px"
+           fill="#000000"
+           id="text1995">LogNormalizer</text>
+      </g>
+      <g
+         id="edge9-67"
+         class="edge"
+         transform="translate(1827.0408,1358.2098)">
+        <title
+           id="title1998">Macosko2015__pr_norm-&gt;Macosko2015__pr_log</title>
+        <path
+           fill="none"
+           stroke="#000000"
+           d="m 194.5,-515.9023 c 0,10.1921 0,22.0032 0,31.5755"
+           id="path2000" />
+      </g>
+      <g
+         id="node11-3"
+         class="node"
+         transform="translate(1827.0408,1358.2098)">
+        <title
+           id="title2003">Macosko2015__highly_variable</title>
+        <path
+           fill="none"
+           stroke="#000000"
+           d="m 288,-416 c 0,0 -187,0 -187,0 -6,0 -12,6 -12,12 0,0 0,22 0,22 0,6 6,12 12,12 0,0 187,0 187,0 6,0 12,-6 12,-12 0,0 0,-22 0,-22 0,-6 -6,-12 -12,-12"
+           id="path2005" />
+        <text
+           text-anchor="start"
+           x="131.5"
+           y="-399.79999"
+           font-family="'Nimbus Sans'"
+           font-weight="bold"
+           font-size="14px"
+           fill="#000000"
+           id="text2007">HighlyVariableFilter</text>
+        <text
+           text-anchor="start"
+           x="99.5"
+           y="-379.79999"
+           font-family="'Nimbus Sans'"
+           font-size="14px"
+           fill="#000000"
+           id="text2009">{&quot;flavor&quot;: &quot;seurat&quot;, &quot;num&quot;: 2500}</text>
+      </g>
+      <g
+         id="edge10-6"
+         class="edge"
+         transform="translate(1827.0408,1358.2098)">
+        <title
+           id="title2012">Macosko2015__pr_log-&gt;Macosko2015__highly_variable</title>
+        <path
+           fill="none"
+           stroke="#000000"
+           d="m 194.5,-447.9551 c 0,9.6265 0,21.5772 0,31.8731"
+           id="path2014" />
+      </g>
+      <g
+         id="node12-5"
+         class="node"
+         transform="translate(1827.0408,1358.2098)">
+        <title
+           id="title2017">Macosko2015__to_data</title>
+        <path
+           fill="none"
+           stroke="#000000"
+           d="m 245.5,-338 c 0,0 -102,0 -102,0 -6,0 -12,6 -12,12 0,0 0,22 0,22 0,6 6,12 12,12 0,0 102,0 102,0 6,0 12,-6 12,-12 0,0 0,-22 0,-22 0,-6 -6,-12 -12,-12"
+           id="path2019" />
+        <text
+           text-anchor="start"
+           x="153.5"
+           y="-321.79999"
+           font-family="'Nimbus Sans'"
+           font-weight="bold"
+           font-size="14px"
+           fill="#000000"
+           id="text2021">LayerToData</text>
+        <text
+           text-anchor="start"
+           x="141.5"
+           y="-301.79999"
+           font-family="'Nimbus Sans'"
+           font-size="14px"
+           fill="#000000"
+           id="text2023">{&quot;layer&quot;: &quot;counts&quot;}</text>
+      </g>
+      <g
+         id="edge11-6"
+         class="edge"
+         transform="translate(1827.0408,1358.2098)">
+        <title
+           id="title2026">Macosko2015__highly_variable-&gt;Macosko2015__to_data</title>
+        <path
+           fill="none"
+           stroke="#000000"
+           d="m 194.5,-369.5974 c 0,9.962 0,21.5495 0,31.4801"
+           id="path2028" />
+      </g>
+    </g>
+    <g
+       id="node16-90"
+       class="node"
+       transform="translate(1618.9246,1123.7817)">
+      <title
+         id="title2071">Macosko2015__CAPTION</title>
+      <text
+         text-anchor="start"
+         x="150"
+         y="-15.3"
+         font-family="'Nimbus Sans'"
+         font-weight="bold"
+         font-size="14px"
+         fill="#000000"
+         id="text2073">Macosko2015</text>
+    </g>
+    <g
+       id="g4870"
+       transform="translate(-192,19.0775)">
+      <g
+         id="node1-8"
+         class="node"
+         transform="translate(2219.5571,1341.9225)">
+        <title
+           id="title2219">Stuart2019__qc_cells</title>
+        <path
+           fill="none"
+           stroke="#000000"
+           d="m 276,-1357 c 0,0 -163,0 -163,0 -6,0 -12,6 -12,12 0,0 0,117 0,117 0,6 6,12 12,12 0,0 163,0 163,0 6,0 12,-6 12,-12 0,0 0,-117 0,-117 0,-6 -6,-12 -12,-12"
+           id="path2221" />
+        <text
+           text-anchor="start"
+           x="139"
+           y="-1340.3"
+           font-family="'Nimbus Sans'"
+           font-weight="bold"
+           font-size="14px"
+           fill="#000000"
+           id="text2223">CellsQualityFilter</text>
+        <text
+           text-anchor="start"
+           x="111.5"
+           y="-1320.3"
+           font-family="'Nimbus Sans'"
+           font-size="14px"
+           fill="#000000"
+           id="text2225">{</text>
+        <text
+           text-anchor="start"
+           x="111.5"
+           y="-1301.3"
+           font-family="'Nimbus Sans'"
+           font-size="14px"
+           fill="#000000"
+           id="text2227"> &quot;max_genes&quot;: 5000,</text>
+        <text
+           text-anchor="start"
+           x="111.5"
+           y="-1282.3"
+           font-family="'Nimbus Sans'"
+           font-size="14px"
+           fill="#000000"
+           id="text2229"> &quot;max_pct_mt&quot;: 10,</text>
+        <text
+           text-anchor="start"
+           x="111.5"
+           y="-1263.3"
+           font-family="'Nimbus Sans'"
+           font-size="14px"
+           fill="#000000"
+           id="text2231"> &quot;max_tot_counts&quot;: 30000,</text>
+        <text
+           text-anchor="start"
+           x="111.5"
+           y="-1244.3"
+           font-family="'Nimbus Sans'"
+           font-size="14px"
+           fill="#000000"
+           id="text2233"> &quot;min_genes&quot;: 300</text>
+        <text
+           text-anchor="start"
+           x="111.5"
+           y="-1225.3"
+           font-family="'Nimbus Sans'"
+           font-size="14px"
+           fill="#000000"
+           id="text2235">}</text>
+      </g>
+      <g
+         id="node2-50"
+         class="node"
+         transform="translate(2219.5571,1341.9225)">
+        <title
+           id="title2238">Stuart2019__resampling</title>
+        <path
+           fill="none"
+           stroke="#000000"
+           d="m 371.5,-1184 c 0,0 -354,0 -354,0 -6,0 -12,6 -12,12 0,0 0,22 0,22 0,6 6,12 12,12 0,0 354,0 354,0 6,0 12,-6 12,-12 0,0 0,-22 0,-22 0,-6 -6,-12 -12,-12"
+           id="path2240" />
+        <text
+           text-anchor="start"
+           x="155"
+           y="-1167.8"
+           font-family="'Nimbus Sans'"
+           font-weight="bold"
+           font-size="14px"
+           fill="#000000"
+           id="text2242">Subsampler</text>
+        <text
+           text-anchor="start"
+           x="15.5"
+           y="-1147.8"
+           font-family="'Nimbus Sans'"
+           font-size="14px"
+           fill="#000000"
+           id="text2244">{&quot;num_cells&quot;: 40000, &quot;replace&quot;: false, &quot;rng&quot;: &quot;&lt;Generator&gt;&quot;}</text>
+      </g>
+      <g
+         id="edge1-96"
+         class="edge"
+         transform="translate(2219.5571,1341.9225)">
+        <title
+           id="title2247">Stuart2019__qc_cells-&gt;Stuart2019__resampling</title>
+        <path
+           fill="none"
+           stroke="#000000"
+           d="m 194.5,-1215.681 c 0,11.3422 0,22.3269 0,31.4383"
+           id="path2249" />
+      </g>
+      <g
+         id="node3-38"
+         class="node"
+         transform="translate(2219.5571,1341.9225)">
+        <title
+           id="title2252">Stuart2019__qc_genes</title>
+        <path
+           fill="none"
+           stroke="#000000"
+           d="m 304,-1106 c 0,0 -219,0 -219,0 -6,0 -12,6 -12,12 0,0 0,98 0,98 0,6 6,12 12,12 0,0 219,0 219,0 6,0 12,-6 12,-12 0,0 0,-98 0,-98 0,-6 -6,-12 -12,-12"
+           id="path2254" />
+        <text
+           text-anchor="start"
+           x="134"
+           y="-1089.8"
+           font-family="'Nimbus Sans'"
+           font-weight="bold"
+           font-size="14px"
+           fill="#000000"
+           id="text2256">GenesQualityFilter</text>
+        <text
+           text-anchor="start"
+           x="83.5"
+           y="-1069.8"
+           font-family="'Nimbus Sans'"
+           font-size="14px"
+           fill="#000000"
+           id="text2258">{</text>
+        <text
+           text-anchor="start"
+           x="83.5"
+           y="-1050.8"
+           font-family="'Nimbus Sans'"
+           font-size="14px"
+           fill="#000000"
+           id="text2260"> &quot;max_gene_tot_counts&quot;: 100000.0,</text>
+        <text
+           text-anchor="start"
+           x="83.5"
+           y="-1031.8"
+           font-family="'Nimbus Sans'"
+           font-size="14px"
+           fill="#000000"
+           id="text2262"> &quot;min_gene_tot_counts&quot;: 0,</text>
+        <text
+           text-anchor="start"
+           x="83.5"
+           y="-1012.8"
+           font-family="'Nimbus Sans'"
+           font-size="14px"
+           fill="#000000"
+           id="text2264"> &quot;min_pct_cells&quot;: 0.7</text>
+        <text
+           text-anchor="start"
+           x="83.5"
+           y="-993.79999"
+           font-family="'Nimbus Sans'"
+           font-size="14px"
+           fill="#000000"
+           id="text2266">}</text>
+      </g>
+      <g
+         id="edge2-56"
+         class="edge"
+         transform="translate(2219.5571,1341.9225)">
+        <title
+           id="title2269">Stuart2019__resampling-&gt;Stuart2019__qc_genes</title>
+        <path
+           fill="none"
+           stroke="#000000"
+           d="m 194.5,-1137.8045 c 0,9.2564 0,20.3895 0,31.6809"
+           id="path2271" />
+      </g>
+      <g
+         id="node4-1"
+         class="node"
+         transform="translate(2219.5571,1341.9225)">
+        <title
+           id="title2274">Stuart2019__resampling_2</title>
+        <path
+           fill="none"
+           stroke="#000000"
+           d="m 368,-952 c 0,0 -347,0 -347,0 -6,0 -12,6 -12,12 0,0 0,22 0,22 0,6 6,12 12,12 0,0 347,0 347,0 6,0 12,-6 12,-12 0,0 0,-22 0,-22 0,-6 -6,-12 -12,-12"
+           id="path2276" />
+        <text
+           text-anchor="start"
+           x="155.5"
+           y="-935.79999"
+           font-family="'Nimbus Sans'"
+           font-weight="bold"
+           font-size="14px"
+           fill="#000000"
+           id="text2278">Subsampler</text>
+        <text
+           text-anchor="start"
+           x="19.5"
+           y="-915.79999"
+           font-family="'Nimbus Sans'"
+           font-size="14px"
+           fill="#000000"
+           id="text2280">{&quot;num_cells&quot;: 3000, &quot;replace&quot;: false, &quot;rng&quot;: &quot;&lt;Generator&gt;&quot;}</text>
+      </g>
+      <g
+         id="edge3-1"
+         class="edge"
+         transform="translate(2219.5571,1341.9225)">
+        <title
+           id="title2283">Stuart2019__qc_genes-&gt;Stuart2019__resampling_2</title>
+        <path
+           fill="none"
+           stroke="#000000"
+           d="m 194.5,-983.9427 c 0,11.353 0,22.5494 0,31.8427"
+           id="path2285" />
+      </g>
+      <g
+         id="node5-5"
+         class="node"
+         transform="translate(2219.5571,1341.9225)">
+        <title
+           id="title2288">Stuart2019__to_layer</title>
+        <path
+           fill="none"
+           stroke="#000000"
+           d="m 245.5,-874 c 0,0 -102,0 -102,0 -6,0 -12,6 -12,12 0,0 0,22 0,22 0,6 6,12 12,12 0,0 102,0 102,0 6,0 12,-6 12,-12 0,0 0,-22 0,-22 0,-6 -6,-12 -12,-12"
+           id="path2290" />
+        <text
+           text-anchor="start"
+           x="153.5"
+           y="-857.79999"
+           font-family="'Nimbus Sans'"
+           font-weight="bold"
+           font-size="14px"
+           fill="#000000"
+           id="text2292">DataToLayer</text>
+        <text
+           text-anchor="start"
+           x="141.5"
+           y="-837.79999"
+           font-family="'Nimbus Sans'"
+           font-size="14px"
+           fill="#000000"
+           id="text2294">{&quot;layer&quot;: &quot;counts&quot;}</text>
+      </g>
+      <g
+         id="edge4-9"
+         class="edge"
+         transform="translate(2219.5571,1341.9225)">
+        <title
+           id="title2297">Stuart2019__resampling_2-&gt;Stuart2019__to_layer</title>
+        <path
+           fill="none"
+           stroke="#000000"
+           d="m 194.5,-905.5974 c 0,9.962 0,21.5495 0,31.4801"
+           id="path2299" />
+      </g>
+      <g
+         id="node6-8"
+         class="node"
+         transform="translate(2219.5571,1341.9225)">
+        <title
+           id="title2302">Stuart2019__qc_genes_1</title>
+        <path
+           fill="none"
+           stroke="#000000"
+           d="m 338.5,-796 c 0,0 -288,0 -288,0 -6,0 -12,6 -12,12 0,0 0,22 0,22 0,6 6,12 12,12 0,0 288,0 288,0 6,0 12,-6 12,-12 0,0 0,-22 0,-22 0,-6 -6,-12 -12,-12"
+           id="path2304" />
+        <text
+           text-anchor="start"
+           x="133.5"
+           y="-779.79999"
+           font-family="'Nimbus Sans'"
+           font-weight="bold"
+           font-size="14px"
+           fill="#000000"
+           id="text2306">GenesQualityFilter</text>
+        <text
+           text-anchor="start"
+           x="48.5"
+           y="-759.79999"
+           font-family="'Nimbus Sans'"
+           font-size="14px"
+           fill="#000000"
+           id="text2308">{&quot;min_gene_tot_counts&quot;: 0, &quot;min_pct_cells&quot;: 0.7}</text>
+      </g>
+      <g
+         id="edge5-4"
+         class="edge"
+         transform="translate(2219.5571,1341.9225)">
+        <title
+           id="title2311">Stuart2019__to_layer-&gt;Stuart2019__qc_genes_1</title>
+        <path
+           fill="none"
+           stroke="#000000"
+           d="m 194.5,-827.5974 c 0,9.962 0,21.5495 0,31.4801"
+           id="path2313" />
+      </g>
+      <g
+         id="node7-81"
+         class="node"
+         transform="translate(2219.5571,1341.9225)">
+        <title
+           id="title2316">Stuart2019__qc_cells_1</title>
+        <path
+           fill="none"
+           stroke="#000000"
+           d="m 248.5,-718 c 0,0 -108,0 -108,0 -6,0 -12,6 -12,12 0,0 0,22 0,22 0,6 6,12 12,12 0,0 108,0 108,0 6,0 12,-6 12,-12 0,0 0,-22 0,-22 0,-6 -6,-12 -12,-12"
+           id="path2318" />
+        <text
+           text-anchor="start"
+           x="138.5"
+           y="-701.79999"
+           font-family="'Nimbus Sans'"
+           font-weight="bold"
+           font-size="14px"
+           fill="#000000"
+           id="text2320">CellsQualityFilter</text>
+        <text
+           text-anchor="start"
+           x="138.5"
+           y="-681.79999"
+           font-family="'Nimbus Sans'"
+           font-size="14px"
+           fill="#000000"
+           id="text2322">{&quot;min_genes&quot;: 20}</text>
+      </g>
+      <g
+         id="edge6-0"
+         class="edge"
+         transform="translate(2219.5571,1341.9225)">
+        <title
+           id="title2325">Stuart2019__qc_genes_1-&gt;Stuart2019__qc_cells_1</title>
+        <path
+           fill="none"
+           stroke="#000000"
+           d="m 194.5,-749.5974 c 0,9.962 0,21.5495 0,31.4801"
+           id="path2327" />
+      </g>
+      <g
+         id="node8-30"
+         class="node"
+         transform="translate(2219.5571,1341.9225)">
+        <title
+           id="title2330">Stuart2019__size_factors</title>
+        <path
+           fill="none"
+           stroke="#000000"
+           d="m 377,-640 c 0,0 -365,0 -365,0 -6,0 -12,6 -12,12 0,0 0,22 0,22 0,6 6,12 12,12 0,0 365,0 365,0 6,0 12,-6 12,-12 0,0 0,-22 0,-22 0,-6 -6,-12 -12,-12"
+           id="path2332" />
+        <text
+           text-anchor="start"
+           x="127"
+           y="-623.79999"
+           font-family="'Nimbus Sans'"
+           font-weight="bold"
+           font-size="14px"
+           fill="#000000"
+           id="text2334">ComputeSizeFactors</text>
+        <text
+           text-anchor="start"
+           x="10.5"
+           y="-603.79999"
+           font-family="'Nimbus Sans'"
+           font-size="14px"
+           fill="#000000"
+           id="text2336">{&quot;method&quot;: &quot;total&quot;, &quot;obs&quot;: &quot;size_factor&quot;, &quot;tot_counts&quot;: 10000.0}</text>
+      </g>
+      <g
+         id="edge7-4"
+         class="edge"
+         transform="translate(2219.5571,1341.9225)">
+        <title
+           id="title2339">Stuart2019__qc_cells_1-&gt;Stuart2019__size_factors</title>
+        <path
+           fill="none"
+           stroke="#000000"
+           d="m 194.5,-671.5974 c 0,9.962 0,21.5495 0,31.4801"
+           id="path2341" />
+      </g>
+      <g
+         id="node9-44"
+         class="node"
+         transform="translate(2219.5571,1341.9225)">
+        <title
+           id="title2344">Stuart2019__pr_norm</title>
+        <path
+           fill="none"
+           stroke="#000000"
+           d="m 269.5,-562 c 0,0 -150,0 -150,0 -6,0 -12,6 -12,12 0,0 0,22 0,22 0,6 6,12 12,12 0,0 150,0 150,0 6,0 12,-6 12,-12 0,0 0,-22 0,-22 0,-6 -6,-12 -12,-12"
+           id="path2346" />
+        <text
+           text-anchor="start"
+           x="145.5"
+           y="-545.79999"
+           font-family="'Nimbus Sans'"
+           font-weight="bold"
+           font-size="14px"
+           fill="#000000"
+           id="text2348">SizeNormalizer</text>
+        <text
+           text-anchor="start"
+           x="117.5"
+           y="-525.79999"
+           font-family="'Nimbus Sans'"
+           font-size="14px"
+           fill="#000000"
+           id="text2350">{&quot;use_obs&quot;: &quot;size_factor&quot;}</text>
+      </g>
+      <g
+         id="edge8-4"
+         class="edge"
+         transform="translate(2219.5571,1341.9225)">
+        <title
+           id="title2353">Stuart2019__size_factors-&gt;Stuart2019__pr_norm</title>
+        <path
+           fill="none"
+           stroke="#000000"
+           d="m 194.5,-593.5974 c 0,9.962 0,21.5495 0,31.4801"
+           id="path2355" />
+      </g>
+      <g
+         id="node10-76"
+         class="node"
+         transform="translate(2219.5571,1341.9225)">
+        <title
+           id="title2358">Stuart2019__pr_log</title>
+        <path
+           fill="none"
+           stroke="#000000"
+           d="m 240.5,-484 c 0,0 -92,0 -92,0 -6,0 -12,6 -12,12 0,0 0,12 0,12 0,6 6,12 12,12 0,0 92,0 92,0 6,0 12,-6 12,-12 0,0 0,-12 0,-12 0,-6 -6,-12 -12,-12"
+           id="path2360" />
+        <text
+           text-anchor="start"
+           x="146.5"
+           y="-462.79999"
+           font-family="'Nimbus Sans'"
+           font-weight="bold"
+           font-size="14px"
+           fill="#000000"
+           id="text2362">LogNormalizer</text>
+      </g>
+      <g
+         id="edge9-3"
+         class="edge"
+         transform="translate(2219.5571,1341.9225)">
+        <title
+           id="title2365">Stuart2019__pr_norm-&gt;Stuart2019__pr_log</title>
+        <path
+           fill="none"
+           stroke="#000000"
+           d="m 194.5,-515.9023 c 0,10.1921 0,22.0032 0,31.5755"
+           id="path2367" />
+      </g>
+      <g
+         id="node11-17"
+         class="node"
+         transform="translate(2219.5571,1341.9225)">
+        <title
+           id="title2370">Stuart2019__highly_variable</title>
+        <path
+           fill="none"
+           stroke="#000000"
+           d="m 288,-416 c 0,0 -187,0 -187,0 -6,0 -12,6 -12,12 0,0 0,22 0,22 0,6 6,12 12,12 0,0 187,0 187,0 6,0 12,-6 12,-12 0,0 0,-22 0,-22 0,-6 -6,-12 -12,-12"
+           id="path2372" />
+        <text
+           text-anchor="start"
+           x="131.5"
+           y="-399.79999"
+           font-family="'Nimbus Sans'"
+           font-weight="bold"
+           font-size="14px"
+           fill="#000000"
+           id="text2374">HighlyVariableFilter</text>
+        <text
+           text-anchor="start"
+           x="99.5"
+           y="-379.79999"
+           font-family="'Nimbus Sans'"
+           font-size="14px"
+           fill="#000000"
+           id="text2376">{&quot;flavor&quot;: &quot;seurat&quot;, &quot;num&quot;: 2500}</text>
+      </g>
+      <g
+         id="edge10-5"
+         class="edge"
+         transform="translate(2219.5571,1341.9225)">
+        <title
+           id="title2379">Stuart2019__pr_log-&gt;Stuart2019__highly_variable</title>
+        <path
+           fill="none"
+           stroke="#000000"
+           d="m 194.5,-447.9551 c 0,9.6265 0,21.5772 0,31.8731"
+           id="path2381" />
+      </g>
+      <g
+         id="node12-9"
+         class="node"
+         transform="translate(2219.5571,1341.9225)">
+        <title
+           id="title2384">Stuart2019__to_data</title>
+        <path
+           fill="none"
+           stroke="#000000"
+           d="m 245.5,-338 c 0,0 -102,0 -102,0 -6,0 -12,6 -12,12 0,0 0,22 0,22 0,6 6,12 12,12 0,0 102,0 102,0 6,0 12,-6 12,-12 0,0 0,-22 0,-22 0,-6 -6,-12 -12,-12"
+           id="path2386" />
+        <text
+           text-anchor="start"
+           x="153.5"
+           y="-321.79999"
+           font-family="'Nimbus Sans'"
+           font-weight="bold"
+           font-size="14px"
+           fill="#000000"
+           id="text2388">LayerToData</text>
+        <text
+           text-anchor="start"
+           x="141.5"
+           y="-301.79999"
+           font-family="'Nimbus Sans'"
+           font-size="14px"
+           fill="#000000"
+           id="text2390">{&quot;layer&quot;: &quot;counts&quot;}</text>
+      </g>
+      <g
+         id="edge11-62"
+         class="edge"
+         transform="translate(2219.5571,1341.9225)">
+        <title
+           id="title2393">Stuart2019__highly_variable-&gt;Stuart2019__to_data</title>
+        <path
+           fill="none"
+           stroke="#000000"
+           d="m 194.5,-369.5974 c 0,9.962 0,21.5495 0,31.4801"
+           id="path2395" />
+      </g>
+    </g>
+    <g
+       id="node16-8"
+       class="node"
+       transform="translate(2026.6469,1123.8587)">
+      <title
+         id="title2438">Stuart2019__CAPTION</title>
+      <text
+         text-anchor="start"
+         x="159.5"
+         y="-15.3"
+         font-family="'Nimbus Sans'"
+         font-weight="bold"
+         font-size="14px"
+         fill="#000000"
+         id="text2440">Stuart2019</text>
+    </g>
+    <g
+       id="g4767"
+       transform="translate(-189,27.0833)">
+      <g
+         id="node1-9"
+         class="node"
+         transform="translate(2623.1667,1333.9167)">
+        <title
+           id="title2586">Wang2020__qc_cells</title>
+        <path
+           fill="none"
+           stroke="#000000"
+           d="m 276,-1357 c 0,0 -163,0 -163,0 -6,0 -12,6 -12,12 0,0 0,117 0,117 0,6 6,12 12,12 0,0 163,0 163,0 6,0 12,-6 12,-12 0,0 0,-117 0,-117 0,-6 -6,-12 -12,-12"
+           id="path2588" />
+        <text
+           text-anchor="start"
+           x="139"
+           y="-1340.3"
+           font-family="'Nimbus Sans'"
+           font-weight="bold"
+           font-size="14px"
+           fill="#000000"
+           id="text2590">CellsQualityFilter</text>
+        <text
+           text-anchor="start"
+           x="111.5"
+           y="-1320.3"
+           font-family="'Nimbus Sans'"
+           font-size="14px"
+           fill="#000000"
+           id="text2592">{</text>
+        <text
+           text-anchor="start"
+           x="111.5"
+           y="-1301.3"
+           font-family="'Nimbus Sans'"
+           font-size="14px"
+           fill="#000000"
+           id="text2594"> &quot;max_genes&quot;: 7500,</text>
+        <text
+           text-anchor="start"
+           x="111.5"
+           y="-1282.3"
+           font-family="'Nimbus Sans'"
+           font-size="14px"
+           fill="#000000"
+           id="text2596"> &quot;max_pct_mt&quot;: 30,</text>
+        <text
+           text-anchor="start"
+           x="111.5"
+           y="-1263.3"
+           font-family="'Nimbus Sans'"
+           font-size="14px"
+           fill="#000000"
+           id="text2598"> &quot;max_tot_counts&quot;: 80000,</text>
+        <text
+           text-anchor="start"
+           x="111.5"
+           y="-1244.3"
+           font-family="'Nimbus Sans'"
+           font-size="14px"
+           fill="#000000"
+           id="text2600"> &quot;min_genes&quot;: 500</text>
+        <text
+           text-anchor="start"
+           x="111.5"
+           y="-1225.3"
+           font-family="'Nimbus Sans'"
+           font-size="14px"
+           fill="#000000"
+           id="text2602">}</text>
+      </g>
+      <g
+         id="node2-75"
+         class="node"
+         transform="translate(2623.1667,1333.9167)">
+        <title
+           id="title2605">Wang2020__resampling</title>
+        <path
+           fill="none"
+           stroke="#000000"
+           d="m 371.5,-1184 c 0,0 -354,0 -354,0 -6,0 -12,6 -12,12 0,0 0,22 0,22 0,6 6,12 12,12 0,0 354,0 354,0 6,0 12,-6 12,-12 0,0 0,-22 0,-22 0,-6 -6,-12 -12,-12"
+           id="path2607" />
+        <text
+           text-anchor="start"
+           x="155"
+           y="-1167.8"
+           font-family="'Nimbus Sans'"
+           font-weight="bold"
+           font-size="14px"
+           fill="#000000"
+           id="text2609">Subsampler</text>
+        <text
+           text-anchor="start"
+           x="15.5"
+           y="-1147.8"
+           font-family="'Nimbus Sans'"
+           font-size="14px"
+           fill="#000000"
+           id="text2611">{&quot;num_cells&quot;: 40000, &quot;replace&quot;: false, &quot;rng&quot;: &quot;&lt;Generator&gt;&quot;}</text>
+      </g>
+      <g
+         id="edge1-3"
+         class="edge"
+         transform="translate(2623.1667,1333.9167)">
+        <title
+           id="title2614">Wang2020__qc_cells-&gt;Wang2020__resampling</title>
+        <path
+           fill="none"
+           stroke="#000000"
+           d="m 194.5,-1215.681 c 0,11.3422 0,22.3269 0,31.4383"
+           id="path2616" />
+      </g>
+      <g
+         id="node3-8"
+         class="node"
+         transform="translate(2623.1667,1333.9167)">
+        <title
+           id="title2619">Wang2020__qc_genes</title>
+        <path
+           fill="none"
+           stroke="#000000"
+           d="m 304,-1106 c 0,0 -219,0 -219,0 -6,0 -12,6 -12,12 0,0 0,98 0,98 0,6 6,12 12,12 0,0 219,0 219,0 6,0 12,-6 12,-12 0,0 0,-98 0,-98 0,-6 -6,-12 -12,-12"
+           id="path2621" />
+        <text
+           text-anchor="start"
+           x="134"
+           y="-1089.8"
+           font-family="'Nimbus Sans'"
+           font-weight="bold"
+           font-size="14px"
+           fill="#000000"
+           id="text2623">GenesQualityFilter</text>
+        <text
+           text-anchor="start"
+           x="83.5"
+           y="-1069.8"
+           font-family="'Nimbus Sans'"
+           font-size="14px"
+           fill="#000000"
+           id="text2625">{</text>
+        <text
+           text-anchor="start"
+           x="83.5"
+           y="-1050.8"
+           font-family="'Nimbus Sans'"
+           font-size="14px"
+           fill="#000000"
+           id="text2627"> &quot;max_gene_tot_counts&quot;: 200000.0,</text>
+        <text
+           text-anchor="start"
+           x="83.5"
+           y="-1031.8"
+           font-family="'Nimbus Sans'"
+           font-size="14px"
+           fill="#000000"
+           id="text2629"> &quot;min_gene_tot_counts&quot;: 0,</text>
+        <text
+           text-anchor="start"
+           x="83.5"
+           y="-1012.8"
+           font-family="'Nimbus Sans'"
+           font-size="14px"
+           fill="#000000"
+           id="text2631"> &quot;min_pct_cells&quot;: 0.7</text>
+        <text
+           text-anchor="start"
+           x="83.5"
+           y="-993.79999"
+           font-family="'Nimbus Sans'"
+           font-size="14px"
+           fill="#000000"
+           id="text2633">}</text>
+      </g>
+      <g
+         id="edge2-8"
+         class="edge"
+         transform="translate(2623.1667,1333.9167)">
+        <title
+           id="title2636">Wang2020__resampling-&gt;Wang2020__qc_genes</title>
+        <path
+           fill="none"
+           stroke="#000000"
+           d="m 194.5,-1137.8045 c 0,9.2564 0,20.3895 0,31.6809"
+           id="path2638" />
+      </g>
+      <g
+         id="node4-3"
+         class="node"
+         transform="translate(2623.1667,1333.9167)">
+        <title
+           id="title2641">Wang2020__resampling_2</title>
+        <path
+           fill="none"
+           stroke="#000000"
+           d="m 368,-952 c 0,0 -347,0 -347,0 -6,0 -12,6 -12,12 0,0 0,22 0,22 0,6 6,12 12,12 0,0 347,0 347,0 6,0 12,-6 12,-12 0,0 0,-22 0,-22 0,-6 -6,-12 -12,-12"
+           id="path2643" />
+        <text
+           text-anchor="start"
+           x="155.5"
+           y="-935.79999"
+           font-family="'Nimbus Sans'"
+           font-weight="bold"
+           font-size="14px"
+           fill="#000000"
+           id="text2645">Subsampler</text>
+        <text
+           text-anchor="start"
+           x="19.5"
+           y="-915.79999"
+           font-family="'Nimbus Sans'"
+           font-size="14px"
+           fill="#000000"
+           id="text2647">{&quot;num_cells&quot;: 3000, &quot;replace&quot;: false, &quot;rng&quot;: &quot;&lt;Generator&gt;&quot;}</text>
+      </g>
+      <g
+         id="edge3-18"
+         class="edge"
+         transform="translate(2623.1667,1333.9167)">
+        <title
+           id="title2650">Wang2020__qc_genes-&gt;Wang2020__resampling_2</title>
+        <path
+           fill="none"
+           stroke="#000000"
+           d="m 194.5,-983.9427 c 0,11.353 0,22.5494 0,31.8427"
+           id="path2652" />
+      </g>
+      <g
+         id="node5-96"
+         class="node"
+         transform="translate(2623.1667,1333.9167)">
+        <title
+           id="title2655">Wang2020__to_layer</title>
+        <path
+           fill="none"
+           stroke="#000000"
+           d="m 245.5,-874 c 0,0 -102,0 -102,0 -6,0 -12,6 -12,12 0,0 0,22 0,22 0,6 6,12 12,12 0,0 102,0 102,0 6,0 12,-6 12,-12 0,0 0,-22 0,-22 0,-6 -6,-12 -12,-12"
+           id="path2657" />
+        <text
+           text-anchor="start"
+           x="153.5"
+           y="-857.79999"
+           font-family="'Nimbus Sans'"
+           font-weight="bold"
+           font-size="14px"
+           fill="#000000"
+           id="text2659">DataToLayer</text>
+        <text
+           text-anchor="start"
+           x="141.5"
+           y="-837.79999"
+           font-family="'Nimbus Sans'"
+           font-size="14px"
+           fill="#000000"
+           id="text2661">{&quot;layer&quot;: &quot;counts&quot;}</text>
+      </g>
+      <g
+         id="edge4-4"
+         class="edge"
+         transform="translate(2623.1667,1333.9167)">
+        <title
+           id="title2664">Wang2020__resampling_2-&gt;Wang2020__to_layer</title>
+        <path
+           fill="none"
+           stroke="#000000"
+           d="m 194.5,-905.5974 c 0,9.962 0,21.5495 0,31.4801"
+           id="path2666" />
+      </g>
+      <g
+         id="node6-3"
+         class="node"
+         transform="translate(2623.1667,1333.9167)">
+        <title
+           id="title2669">Wang2020__qc_genes_1</title>
+        <path
+           fill="none"
+           stroke="#000000"
+           d="m 338.5,-796 c 0,0 -288,0 -288,0 -6,0 -12,6 -12,12 0,0 0,22 0,22 0,6 6,12 12,12 0,0 288,0 288,0 6,0 12,-6 12,-12 0,0 0,-22 0,-22 0,-6 -6,-12 -12,-12"
+           id="path2671" />
+        <text
+           text-anchor="start"
+           x="133.5"
+           y="-779.79999"
+           font-family="'Nimbus Sans'"
+           font-weight="bold"
+           font-size="14px"
+           fill="#000000"
+           id="text2673">GenesQualityFilter</text>
+        <text
+           text-anchor="start"
+           x="48.5"
+           y="-759.79999"
+           font-family="'Nimbus Sans'"
+           font-size="14px"
+           fill="#000000"
+           id="text2675">{&quot;min_gene_tot_counts&quot;: 0, &quot;min_pct_cells&quot;: 0.7}</text>
+      </g>
+      <g
+         id="edge5-3"
+         class="edge"
+         transform="translate(2623.1667,1333.9167)">
+        <title
+           id="title2678">Wang2020__to_layer-&gt;Wang2020__qc_genes_1</title>
+        <path
+           fill="none"
+           stroke="#000000"
+           d="m 194.5,-827.5974 c 0,9.962 0,21.5495 0,31.4801"
+           id="path2680" />
+      </g>
+      <g
+         id="node7-3"
+         class="node"
+         transform="translate(2623.1667,1333.9167)">
+        <title
+           id="title2683">Wang2020__qc_cells_1</title>
+        <path
+           fill="none"
+           stroke="#000000"
+           d="m 248.5,-718 c 0,0 -108,0 -108,0 -6,0 -12,6 -12,12 0,0 0,22 0,22 0,6 6,12 12,12 0,0 108,0 108,0 6,0 12,-6 12,-12 0,0 0,-22 0,-22 0,-6 -6,-12 -12,-12"
+           id="path2685" />
+        <text
+           text-anchor="start"
+           x="138.5"
+           y="-701.79999"
+           font-family="'Nimbus Sans'"
+           font-weight="bold"
+           font-size="14px"
+           fill="#000000"
+           id="text2687">CellsQualityFilter</text>
+        <text
+           text-anchor="start"
+           x="138.5"
+           y="-681.79999"
+           font-family="'Nimbus Sans'"
+           font-size="14px"
+           fill="#000000"
+           id="text2689">{&quot;min_genes&quot;: 20}</text>
+      </g>
+      <g
+         id="edge6-86"
+         class="edge"
+         transform="translate(2623.1667,1333.9167)">
+        <title
+           id="title2692">Wang2020__qc_genes_1-&gt;Wang2020__qc_cells_1</title>
+        <path
+           fill="none"
+           stroke="#000000"
+           d="m 194.5,-749.5974 c 0,9.962 0,21.5495 0,31.4801"
+           id="path2694" />
+      </g>
+      <g
+         id="node8-04"
+         class="node"
+         transform="translate(2623.1667,1333.9167)">
+        <title
+           id="title2697">Wang2020__size_factors</title>
+        <path
+           fill="none"
+           stroke="#000000"
+           d="m 377,-640 c 0,0 -365,0 -365,0 -6,0 -12,6 -12,12 0,0 0,22 0,22 0,6 6,12 12,12 0,0 365,0 365,0 6,0 12,-6 12,-12 0,0 0,-22 0,-22 0,-6 -6,-12 -12,-12"
+           id="path2699" />
+        <text
+           text-anchor="start"
+           x="127"
+           y="-623.79999"
+           font-family="'Nimbus Sans'"
+           font-weight="bold"
+           font-size="14px"
+           fill="#000000"
+           id="text2701">ComputeSizeFactors</text>
+        <text
+           text-anchor="start"
+           x="10.5"
+           y="-603.79999"
+           font-family="'Nimbus Sans'"
+           font-size="14px"
+           fill="#000000"
+           id="text2703">{&quot;method&quot;: &quot;total&quot;, &quot;obs&quot;: &quot;size_factor&quot;, &quot;tot_counts&quot;: 10000.0}</text>
+      </g>
+      <g
+         id="edge7-8"
+         class="edge"
+         transform="translate(2623.1667,1333.9167)">
+        <title
+           id="title2706">Wang2020__qc_cells_1-&gt;Wang2020__size_factors</title>
+        <path
+           fill="none"
+           stroke="#000000"
+           d="m 194.5,-671.5974 c 0,9.962 0,21.5495 0,31.4801"
+           id="path2708" />
+      </g>
+      <g
+         id="node9-8"
+         class="node"
+         transform="translate(2623.1667,1333.9167)">
+        <title
+           id="title2711">Wang2020__pr_norm</title>
+        <path
+           fill="none"
+           stroke="#000000"
+           d="m 269.5,-562 c 0,0 -150,0 -150,0 -6,0 -12,6 -12,12 0,0 0,22 0,22 0,6 6,12 12,12 0,0 150,0 150,0 6,0 12,-6 12,-12 0,0 0,-22 0,-22 0,-6 -6,-12 -12,-12"
+           id="path2713" />
+        <text
+           text-anchor="start"
+           x="145.5"
+           y="-545.79999"
+           font-family="'Nimbus Sans'"
+           font-weight="bold"
+           font-size="14px"
+           fill="#000000"
+           id="text2715">SizeNormalizer</text>
+        <text
+           text-anchor="start"
+           x="117.5"
+           y="-525.79999"
+           font-family="'Nimbus Sans'"
+           font-size="14px"
+           fill="#000000"
+           id="text2717">{&quot;use_obs&quot;: &quot;size_factor&quot;}</text>
+      </g>
+      <g
+         id="edge8-8"
+         class="edge"
+         transform="translate(2623.1667,1333.9167)">
+        <title
+           id="title2720">Wang2020__size_factors-&gt;Wang2020__pr_norm</title>
+        <path
+           fill="none"
+           stroke="#000000"
+           d="m 194.5,-593.5974 c 0,9.962 0,21.5495 0,31.4801"
+           id="path2722" />
+      </g>
+      <g
+         id="node10-9"
+         class="node"
+         transform="translate(2623.1667,1333.9167)">
+        <title
+           id="title2725">Wang2020__pr_log</title>
+        <path
+           fill="none"
+           stroke="#000000"
+           d="m 240.5,-484 c 0,0 -92,0 -92,0 -6,0 -12,6 -12,12 0,0 0,12 0,12 0,6 6,12 12,12 0,0 92,0 92,0 6,0 12,-6 12,-12 0,0 0,-12 0,-12 0,-6 -6,-12 -12,-12"
+           id="path2727" />
+        <text
+           text-anchor="start"
+           x="146.5"
+           y="-462.79999"
+           font-family="'Nimbus Sans'"
+           font-weight="bold"
+           font-size="14px"
+           fill="#000000"
+           id="text2729">LogNormalizer</text>
+      </g>
+      <g
+         id="edge9-7"
+         class="edge"
+         transform="translate(2623.1667,1333.9167)">
+        <title
+           id="title2732">Wang2020__pr_norm-&gt;Wang2020__pr_log</title>
+        <path
+           fill="none"
+           stroke="#000000"
+           d="m 194.5,-515.9023 c 0,10.1921 0,22.0032 0,31.5755"
+           id="path2734" />
+      </g>
+      <g
+         id="node11-7"
+         class="node"
+         transform="translate(2623.1667,1333.9167)">
+        <title
+           id="title2737">Wang2020__highly_variable</title>
+        <path
+           fill="none"
+           stroke="#000000"
+           d="m 288,-416 c 0,0 -187,0 -187,0 -6,0 -12,6 -12,12 0,0 0,22 0,22 0,6 6,12 12,12 0,0 187,0 187,0 6,0 12,-6 12,-12 0,0 0,-22 0,-22 0,-6 -6,-12 -12,-12"
+           id="path2739" />
+        <text
+           text-anchor="start"
+           x="131.5"
+           y="-399.79999"
+           font-family="'Nimbus Sans'"
+           font-weight="bold"
+           font-size="14px"
+           fill="#000000"
+           id="text2741">HighlyVariableFilter</text>
+        <text
+           text-anchor="start"
+           x="99.5"
+           y="-379.79999"
+           font-family="'Nimbus Sans'"
+           font-size="14px"
+           fill="#000000"
+           id="text2743">{&quot;flavor&quot;: &quot;seurat&quot;, &quot;num&quot;: 2500}</text>
+      </g>
+      <g
+         id="edge10-64"
+         class="edge"
+         transform="translate(2623.1667,1333.9167)">
+        <title
+           id="title2746">Wang2020__pr_log-&gt;Wang2020__highly_variable</title>
+        <path
+           fill="none"
+           stroke="#000000"
+           d="m 194.5,-447.9551 c 0,9.6265 0,21.5772 0,31.8731"
+           id="path2748" />
+      </g>
+      <g
+         id="node12-3"
+         class="node"
+         transform="translate(2623.1667,1333.9167)">
+        <title
+           id="title2751">Wang2020__to_data</title>
+        <path
+           fill="none"
+           stroke="#000000"
+           d="m 245.5,-338 c 0,0 -102,0 -102,0 -6,0 -12,6 -12,12 0,0 0,22 0,22 0,6 6,12 12,12 0,0 102,0 102,0 6,0 12,-6 12,-12 0,0 0,-22 0,-22 0,-6 -6,-12 -12,-12"
+           id="path2753" />
+        <text
+           text-anchor="start"
+           x="153.5"
+           y="-321.79999"
+           font-family="'Nimbus Sans'"
+           font-weight="bold"
+           font-size="14px"
+           fill="#000000"
+           id="text2755">LayerToData</text>
+        <text
+           text-anchor="start"
+           x="141.5"
+           y="-301.79999"
+           font-family="'Nimbus Sans'"
+           font-size="14px"
+           fill="#000000"
+           id="text2757">{&quot;layer&quot;: &quot;counts&quot;}</text>
+      </g>
+      <g
+         id="edge11-0"
+         class="edge"
+         transform="translate(2623.1667,1333.9167)">
+        <title
+           id="title2760">Wang2020__highly_variable-&gt;Wang2020__to_data</title>
+        <path
+           fill="none"
+           stroke="#000000"
+           d="m 194.5,-369.5974 c 0,9.962 0,21.5495 0,31.4801"
+           id="path2762" />
+      </g>
+    </g>
+    <g
+       id="node16-4"
+       class="node"
+       transform="translate(2433.4274,1122.4167)">
+      <title
+         id="title2805">Wang2020__CAPTION</title>
+      <text
+         text-anchor="start"
+         x="161"
+         y="-15.3"
+         font-family="'Nimbus Sans'"
+         font-weight="bold"
+         font-size="14px"
+         fill="#000000"
+         id="text2807">Wang2020</text>
+    </g>
+  </g>
+</svg>
