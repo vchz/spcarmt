@@ -21,4 +21,4 @@ Macosko2015 (drop-seq): https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE63
 Stuart2019 (cite-seq): https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM3681518 \
 Wang2020 (10xchromiumv3): https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE111976
 
-Note that the Luecken2017 needs to be separated between RNA and ATAC before using it
+Note that the Luecken2021 needs to be separated between RNA and ATAC before using it
