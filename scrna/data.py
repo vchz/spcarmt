@@ -517,7 +517,7 @@ def _get_names_from_ensembl(data):
         else:
             return data
         
-        annots = pd.read_csv('/mnt/home/vchardes/scrna/scrna/annotations/'+filename).set_index('gene_id')
+        annots = pd.read_csv('./annotations/'+filename).set_index('gene_id')
         isin = np.isin(data.adata.var_names,annots.index)
         data.adata.var['gene_name'] = data.adata.var_names.values
         data.adata.var['gene_name'][isin] = annots.loc[data.adata.var_names[isin]]['gene_name']
