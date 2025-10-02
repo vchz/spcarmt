@@ -5,9 +5,12 @@ It will also look for any file following the regex '^(filename)([A-Za-z0-9\-\_\.
 For example, a structure as follows works for the Zheng2017 data
 
 Zheng17/
-  68k_pbmc.barcodes.tsv  
+  68k_pbmc.barcodes.tsv
+  
   68k_pbmc.matrix.mtx
-  68k_pbmc.genes.tsv     
+  
+  68k_pbmc.genes.tsv
+  
   68k_pbmc_celltypes.obs.txt
   
 Ultimately, all the path to each of these folders should be included in the DATASETS dictionnary in the datasets.py file to be able to run all experiments
